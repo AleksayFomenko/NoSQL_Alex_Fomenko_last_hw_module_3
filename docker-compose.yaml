@@ -1,0 +1,42 @@
+services:
+
+  configsvr:
+    image: mongo:8
+    container_name: configsvr
+    command: mongod --configsvr --replSet configReplSet --port 27019
+    ports:
+      - "27019:27019"
+
+  shard1:
+    image: mongo:8
+    container_name: shard1
+    command: mongod --shardsvr --replSet shard1ReplSet --port 27018
+    ports:
+      - "27018:27018"
+
+  shard2:
+    image: mongo:8
+    container_name: shard2
+    command: mongod --shardsvr --replSet shard2ReplSet --port 27017
+    ports:
+      - "27017:27017"
+
+  mongos:
+    image: mongo:8
+    container_name: mongos
+    depends_on:
+      - configsvr
+      - shard1
+      - shard2
+    command: mongos --configdb configReplSet/configsvr:27019 --bind_ip_all
+    ports:
+      - "27020:27017"
+
+  mongo-init:
+    image: mongo:8
+    container_name: mongo-init
+    depends_on:
+      - mongos
+    volumes:
+      - ./init_mongo:/scripts
+    entrypoint: ["bash", "/scripts/init_shards.sh"]

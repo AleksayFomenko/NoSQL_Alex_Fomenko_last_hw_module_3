@@ -1,0 +1,1000 @@
+{"student_id": "S20250001", "first_name": "Maria", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Mathematics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250002", "first_name": "Ivan", "last_name": "Kuznetsov", "group": "SE-101", "faculty": "Physics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250003", "first_name": "Petr", "last_name": "Smirnov", "group": "SE-101", "faculty": "Engineering", "year": 2025, "current_semester": 7}
+{"student_id": "S20250004", "first_name": "Petr", "last_name": "Lebedev", "group": "CS-101", "faculty": "Mathematics", "year": 2023, "current_semester": 3}
+{"student_id": "S20250005", "first_name": "Olga", "last_name": "Sidorov", "group": "CS-101", "faculty": "Computer Science", "year": 2025, "current_semester": 7}
+{"student_id": "S20250006", "first_name": "Anna", "last_name": "Popov", "group": "CS-202", "faculty": "Computer Science", "year": 2025, "current_semester": 7}
+{"student_id": "S20250007", "first_name": "Anna", "last_name": "Sokolov", "group": "SE-201", "faculty": "Engineering", "year": 2025, "current_semester": 4}
+{"student_id": "S20250008", "first_name": "Elena", "last_name": "Sokolov", "group": "CS-101", "faculty": "Engineering", "year": 2025, "current_semester": 2}
+{"student_id": "S20250009", "first_name": "Olga", "last_name": "Popov", "group": "CS-202", "faculty": "Engineering", "year": 2023, "current_semester": 5}
+{"student_id": "S20250010", "first_name": "Nikita", "last_name": "Sidorov", "group": "CS-202", "faculty": "Engineering", "year": 2025, "current_semester": 6}
+{"student_id": "S20250011", "first_name": "Sergey", "last_name": "Petrov", "group": "CS-101", "faculty": "Physics", "year": 2022, "current_semester": 5}
+{"student_id": "S20250012", "first_name": "Dmitry", "last_name": "Lebedev", "group": "CS-202", "faculty": "Engineering", "year": 2023, "current_semester": 2}
+{"student_id": "S20250013", "first_name": "Olga", "last_name": "Ivanov", "group": "CS-201", "faculty": "Mathematics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250014", "first_name": "Anna", "last_name": "Lebedev", "group": "SE-201", "faculty": "Mathematics", "year": 2023, "current_semester": 8}
+{"student_id": "S20250015", "first_name": "Nikita", "last_name": "Sidorov", "group": "CS-102", "faculty": "Engineering", "year": 2025, "current_semester": 3}
+{"student_id": "S20250016", "first_name": "Maria", "last_name": "Popov", "group": "CS-201", "faculty": "Mathematics", "year": 2025, "current_semester": 4}
+{"student_id": "S20250017", "first_name": "Dmitry", "last_name": "Popov", "group": "CS-101", "faculty": "Mathematics", "year": 2024, "current_semester": 2}
+{"student_id": "S20250018", "first_name": "Elena", "last_name": "Popov", "group": "CS-202", "faculty": "Mathematics", "year": 2025, "current_semester": 7}
+{"student_id": "S20250019", "first_name": "Nikita", "last_name": "Sidorov", "group": "CS-201", "faculty": "Mathematics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250020", "first_name": "Anna", "last_name": "Petrov", "group": "CS-102", "faculty": "Engineering", "year": 2023, "current_semester": 3}
+{"student_id": "S20250021", "first_name": "Alex", "last_name": "Ivanov", "group": "CS-201", "faculty": "Mathematics", "year": 2023, "current_semester": 1}
+{"student_id": "S20250022", "first_name": "Sergey", "last_name": "Sidorov", "group": "SE-201", "faculty": "Physics", "year": 2025, "current_semester": 6}
+{"student_id": "S20250023", "first_name": "Ivan", "last_name": "Smirnov", "group": "CS-101", "faculty": "Computer Science", "year": 2022, "current_semester": 4}
+{"student_id": "S20250024", "first_name": "Nikita", "last_name": "Petrov", "group": "CS-202", "faculty": "Physics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250025", "first_name": "Maria", "last_name": "Sokolov", "group": "CS-102", "faculty": "Physics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250026", "first_name": "Alex", "last_name": "Sokolov", "group": "SE-101", "faculty": "Physics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250027", "first_name": "Dmitry", "last_name": "Popov", "group": "CS-201", "faculty": "Engineering", "year": 2025, "current_semester": 3}
+{"student_id": "S20250028", "first_name": "Alex", "last_name": "Petrov", "group": "SE-101", "faculty": "Physics", "year": 2022, "current_semester": 6}
+{"student_id": "S20250029", "first_name": "Olga", "last_name": "Lebedev", "group": "CS-202", "faculty": "Physics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250030", "first_name": "Anna", "last_name": "Sidorov", "group": "CS-102", "faculty": "Computer Science", "year": 2022, "current_semester": 2}
+{"student_id": "S20250031", "first_name": "Elena", "last_name": "Petrov", "group": "SE-201", "faculty": "Physics", "year": 2025, "current_semester": 7}
+{"student_id": "S20250032", "first_name": "Dmitry", "last_name": "Sokolov", "group": "CS-201", "faculty": "Physics", "year": 2024, "current_semester": 6}
+{"student_id": "S20250033", "first_name": "Alex", "last_name": "Sidorov", "group": "CS-101", "faculty": "Physics", "year": 2023, "current_semester": 7}
+{"student_id": "S20250034", "first_name": "Anna", "last_name": "Smirnov", "group": "CS-101", "faculty": "Computer Science", "year": 2024, "current_semester": 4}
+{"student_id": "S20250035", "first_name": "Maria", "last_name": "Popov", "group": "CS-102", "faculty": "Physics", "year": 2025, "current_semester": 3}
+{"student_id": "S20250036", "first_name": "Sergey", "last_name": "Sokolov", "group": "SE-101", "faculty": "Mathematics", "year": 2024, "current_semester": 6}
+{"student_id": "S20250037", "first_name": "Petr", "last_name": "Sokolov", "group": "CS-101", "faculty": "Mathematics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250038", "first_name": "Dmitry", "last_name": "Sokolov", "group": "SE-101", "faculty": "Mathematics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250039", "first_name": "Nikita", "last_name": "Kuznetsov", "group": "CS-201", "faculty": "Mathematics", "year": 2025, "current_semester": 3}
+{"student_id": "S20250040", "first_name": "Maria", "last_name": "Petrov", "group": "SE-201", "faculty": "Physics", "year": 2025, "current_semester": 6}
+{"student_id": "S20250041", "first_name": "Olga", "last_name": "Popov", "group": "CS-202", "faculty": "Mathematics", "year": 2023, "current_semester": 8}
+{"student_id": "S20250042", "first_name": "Anna", "last_name": "Popov", "group": "CS-101", "faculty": "Engineering", "year": 2022, "current_semester": 1}
+{"student_id": "S20250043", "first_name": "Dmitry", "last_name": "Petrov", "group": "CS-102", "faculty": "Computer Science", "year": 2025, "current_semester": 8}
+{"student_id": "S20250044", "first_name": "Maria", "last_name": "Smirnov", "group": "CS-101", "faculty": "Computer Science", "year": 2025, "current_semester": 8}
+{"student_id": "S20250045", "first_name": "Anna", "last_name": "Smirnov", "group": "SE-201", "faculty": "Engineering", "year": 2025, "current_semester": 3}
+{"student_id": "S20250046", "first_name": "Ivan", "last_name": "Ivanov", "group": "CS-202", "faculty": "Computer Science", "year": 2023, "current_semester": 3}
+{"student_id": "S20250047", "first_name": "Ivan", "last_name": "Smirnov", "group": "CS-201", "faculty": "Mathematics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250048", "first_name": "Maria", "last_name": "Ivanov", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 8}
+{"student_id": "S20250049", "first_name": "Nikita", "last_name": "Petrov", "group": "SE-201", "faculty": "Mathematics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250050", "first_name": "Olga", "last_name": "Kuznetsov", "group": "CS-102", "faculty": "Physics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250051", "first_name": "Maria", "last_name": "Smirnov", "group": "CS-201", "faculty": "Mathematics", "year": 2024, "current_semester": 2}
+{"student_id": "S20250052", "first_name": "Olga", "last_name": "Lebedev", "group": "CS-202", "faculty": "Physics", "year": 2022, "current_semester": 2}
+{"student_id": "S20250053", "first_name": "Maria", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Mathematics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250054", "first_name": "Nikita", "last_name": "Sokolov", "group": "SE-201", "faculty": "Mathematics", "year": 2022, "current_semester": 7}
+{"student_id": "S20250055", "first_name": "Alex", "last_name": "Sidorov", "group": "CS-102", "faculty": "Physics", "year": 2023, "current_semester": 7}
+{"student_id": "S20250056", "first_name": "Alex", "last_name": "Popov", "group": "CS-101", "faculty": "Engineering", "year": 2024, "current_semester": 5}
+{"student_id": "S20250057", "first_name": "Sergey", "last_name": "Lebedev", "group": "CS-202", "faculty": "Computer Science", "year": 2023, "current_semester": 5}
+{"student_id": "S20250058", "first_name": "Nikita", "last_name": "Smirnov", "group": "SE-101", "faculty": "Computer Science", "year": 2022, "current_semester": 8}
+{"student_id": "S20250059", "first_name": "Petr", "last_name": "Popov", "group": "SE-201", "faculty": "Computer Science", "year": 2022, "current_semester": 2}
+{"student_id": "S20250060", "first_name": "Petr", "last_name": "Sokolov", "group": "CS-201", "faculty": "Mathematics", "year": 2023, "current_semester": 5}
+{"student_id": "S20250061", "first_name": "Olga", "last_name": "Sidorov", "group": "CS-102", "faculty": "Physics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250062", "first_name": "Nikita", "last_name": "Kuznetsov", "group": "CS-201", "faculty": "Engineering", "year": 2023, "current_semester": 7}
+{"student_id": "S20250063", "first_name": "Sergey", "last_name": "Sokolov", "group": "SE-101", "faculty": "Computer Science", "year": 2025, "current_semester": 1}
+{"student_id": "S20250064", "first_name": "Maria", "last_name": "Smirnov", "group": "CS-201", "faculty": "Physics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250065", "first_name": "Sergey", "last_name": "Petrov", "group": "SE-201", "faculty": "Computer Science", "year": 2025, "current_semester": 4}
+{"student_id": "S20250066", "first_name": "Maria", "last_name": "Ivanov", "group": "CS-202", "faculty": "Physics", "year": 2025, "current_semester": 8}
+{"student_id": "S20250067", "first_name": "Elena", "last_name": "Sokolov", "group": "SE-201", "faculty": "Mathematics", "year": 2025, "current_semester": 4}
+{"student_id": "S20250068", "first_name": "Maria", "last_name": "Sidorov", "group": "SE-201", "faculty": "Computer Science", "year": 2024, "current_semester": 5}
+{"student_id": "S20250069", "first_name": "Elena", "last_name": "Petrov", "group": "CS-202", "faculty": "Mathematics", "year": 2022, "current_semester": 3}
+{"student_id": "S20250070", "first_name": "Olga", "last_name": "Petrov", "group": "CS-101", "faculty": "Mathematics", "year": 2024, "current_semester": 3}
+{"student_id": "S20250071", "first_name": "Alex", "last_name": "Sokolov", "group": "SE-101", "faculty": "Engineering", "year": 2023, "current_semester": 6}
+{"student_id": "S20250072", "first_name": "Anna", "last_name": "Petrov", "group": "CS-202", "faculty": "Engineering", "year": 2023, "current_semester": 2}
+{"student_id": "S20250073", "first_name": "Dmitry", "last_name": "Sidorov", "group": "SE-101", "faculty": "Mathematics", "year": 2024, "current_semester": 3}
+{"student_id": "S20250074", "first_name": "Ivan", "last_name": "Sidorov", "group": "SE-201", "faculty": "Computer Science", "year": 2022, "current_semester": 1}
+{"student_id": "S20250075", "first_name": "Nikita", "last_name": "Lebedev", "group": "SE-101", "faculty": "Physics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250076", "first_name": "Nikita", "last_name": "Popov", "group": "SE-201", "faculty": "Mathematics", "year": 2023, "current_semester": 3}
+{"student_id": "S20250077", "first_name": "Nikita", "last_name": "Petrov", "group": "SE-101", "faculty": "Engineering", "year": 2022, "current_semester": 8}
+{"student_id": "S20250078", "first_name": "Nikita", "last_name": "Lebedev", "group": "CS-101", "faculty": "Engineering", "year": 2024, "current_semester": 8}
+{"student_id": "S20250079", "first_name": "Petr", "last_name": "Lebedev", "group": "CS-101", "faculty": "Computer Science", "year": 2023, "current_semester": 2}
+{"student_id": "S20250080", "first_name": "Anna", "last_name": "Lebedev", "group": "SE-101", "faculty": "Mathematics", "year": 2025, "current_semester": 3}
+{"student_id": "S20250081", "first_name": "Elena", "last_name": "Ivanov", "group": "SE-201", "faculty": "Computer Science", "year": 2022, "current_semester": 6}
+{"student_id": "S20250082", "first_name": "Anna", "last_name": "Smirnov", "group": "SE-201", "faculty": "Computer Science", "year": 2024, "current_semester": 4}
+{"student_id": "S20250083", "first_name": "Nikita", "last_name": "Popov", "group": "SE-201", "faculty": "Physics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250084", "first_name": "Anna", "last_name": "Sokolov", "group": "CS-202", "faculty": "Engineering", "year": 2025, "current_semester": 2}
+{"student_id": "S20250085", "first_name": "Maria", "last_name": "Popov", "group": "CS-102", "faculty": "Engineering", "year": 2024, "current_semester": 1}
+{"student_id": "S20250086", "first_name": "Dmitry", "last_name": "Sidorov", "group": "CS-101", "faculty": "Mathematics", "year": 2022, "current_semester": 8}
+{"student_id": "S20250087", "first_name": "Maria", "last_name": "Ivanov", "group": "CS-202", "faculty": "Physics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250088", "first_name": "Nikita", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Computer Science", "year": 2022, "current_semester": 5}
+{"student_id": "S20250089", "first_name": "Maria", "last_name": "Sidorov", "group": "CS-201", "faculty": "Mathematics", "year": 2022, "current_semester": 2}
+{"student_id": "S20250090", "first_name": "Maria", "last_name": "Ivanov", "group": "CS-102", "faculty": "Computer Science", "year": 2024, "current_semester": 4}
+{"student_id": "S20250091", "first_name": "Petr", "last_name": "Sokolov", "group": "CS-201", "faculty": "Engineering", "year": 2022, "current_semester": 5}
+{"student_id": "S20250092", "first_name": "Maria", "last_name": "Ivanov", "group": "SE-101", "faculty": "Mathematics", "year": 2023, "current_semester": 1}
+{"student_id": "S20250093", "first_name": "Ivan", "last_name": "Ivanov", "group": "CS-101", "faculty": "Engineering", "year": 2022, "current_semester": 5}
+{"student_id": "S20250094", "first_name": "Anna", "last_name": "Smirnov", "group": "CS-201", "faculty": "Mathematics", "year": 2023, "current_semester": 1}
+{"student_id": "S20250095", "first_name": "Elena", "last_name": "Sidorov", "group": "CS-102", "faculty": "Mathematics", "year": 2024, "current_semester": 8}
+{"student_id": "S20250096", "first_name": "Dmitry", "last_name": "Popov", "group": "CS-101", "faculty": "Engineering", "year": 2024, "current_semester": 1}
+{"student_id": "S20250097", "first_name": "Ivan", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Engineering", "year": 2025, "current_semester": 6}
+{"student_id": "S20250098", "first_name": "Alex", "last_name": "Lebedev", "group": "CS-101", "faculty": "Computer Science", "year": 2025, "current_semester": 8}
+{"student_id": "S20250099", "first_name": "Elena", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Mathematics", "year": 2022, "current_semester": 8}
+{"student_id": "S20250100", "first_name": "Petr", "last_name": "Sidorov", "group": "CS-201", "faculty": "Engineering", "year": 2023, "current_semester": 1}
+{"student_id": "S20250101", "first_name": "Elena", "last_name": "Popov", "group": "CS-201", "faculty": "Computer Science", "year": 2024, "current_semester": 1}
+{"student_id": "S20250102", "first_name": "Nikita", "last_name": "Popov", "group": "SE-201", "faculty": "Engineering", "year": 2024, "current_semester": 2}
+{"student_id": "S20250103", "first_name": "Ivan", "last_name": "Smirnov", "group": "CS-101", "faculty": "Mathematics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250104", "first_name": "Petr", "last_name": "Smirnov", "group": "SE-201", "faculty": "Physics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250105", "first_name": "Maria", "last_name": "Sokolov", "group": "SE-101", "faculty": "Engineering", "year": 2022, "current_semester": 8}
+{"student_id": "S20250106", "first_name": "Alex", "last_name": "Smirnov", "group": "CS-101", "faculty": "Computer Science", "year": 2023, "current_semester": 5}
+{"student_id": "S20250107", "first_name": "Olga", "last_name": "Popov", "group": "CS-202", "faculty": "Physics", "year": 2022, "current_semester": 3}
+{"student_id": "S20250108", "first_name": "Alex", "last_name": "Kuznetsov", "group": "SE-101", "faculty": "Engineering", "year": 2023, "current_semester": 6}
+{"student_id": "S20250109", "first_name": "Petr", "last_name": "Smirnov", "group": "CS-102", "faculty": "Physics", "year": 2023, "current_semester": 8}
+{"student_id": "S20250110", "first_name": "Olga", "last_name": "Petrov", "group": "CS-101", "faculty": "Computer Science", "year": 2022, "current_semester": 4}
+{"student_id": "S20250111", "first_name": "Anna", "last_name": "Ivanov", "group": "SE-101", "faculty": "Computer Science", "year": 2023, "current_semester": 3}
+{"student_id": "S20250112", "first_name": "Maria", "last_name": "Popov", "group": "CS-101", "faculty": "Physics", "year": 2022, "current_semester": 2}
+{"student_id": "S20250113", "first_name": "Olga", "last_name": "Sokolov", "group": "CS-202", "faculty": "Physics", "year": 2024, "current_semester": 3}
+{"student_id": "S20250114", "first_name": "Elena", "last_name": "Smirnov", "group": "SE-201", "faculty": "Computer Science", "year": 2023, "current_semester": 7}
+{"student_id": "S20250115", "first_name": "Ivan", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Mathematics", "year": 2022, "current_semester": 5}
+{"student_id": "S20250116", "first_name": "Olga", "last_name": "Smirnov", "group": "CS-201", "faculty": "Physics", "year": 2023, "current_semester": 3}
+{"student_id": "S20250117", "first_name": "Alex", "last_name": "Ivanov", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 6}
+{"student_id": "S20250118", "first_name": "Olga", "last_name": "Sokolov", "group": "SE-201", "faculty": "Physics", "year": 2022, "current_semester": 8}
+{"student_id": "S20250119", "first_name": "Dmitry", "last_name": "Sokolov", "group": "SE-101", "faculty": "Engineering", "year": 2022, "current_semester": 4}
+{"student_id": "S20250120", "first_name": "Petr", "last_name": "Sidorov", "group": "CS-202", "faculty": "Mathematics", "year": 2025, "current_semester": 4}
+{"student_id": "S20250121", "first_name": "Nikita", "last_name": "Petrov", "group": "CS-202", "faculty": "Engineering", "year": 2025, "current_semester": 2}
+{"student_id": "S20250122", "first_name": "Olga", "last_name": "Sidorov", "group": "CS-202", "faculty": "Physics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250123", "first_name": "Olga", "last_name": "Petrov", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 7}
+{"student_id": "S20250124", "first_name": "Nikita", "last_name": "Petrov", "group": "SE-201", "faculty": "Computer Science", "year": 2024, "current_semester": 8}
+{"student_id": "S20250125", "first_name": "Petr", "last_name": "Sokolov", "group": "SE-101", "faculty": "Mathematics", "year": 2025, "current_semester": 4}
+{"student_id": "S20250126", "first_name": "Ivan", "last_name": "Lebedev", "group": "CS-101", "faculty": "Physics", "year": 2023, "current_semester": 1}
+{"student_id": "S20250127", "first_name": "Olga", "last_name": "Sokolov", "group": "CS-202", "faculty": "Mathematics", "year": 2024, "current_semester": 1}
+{"student_id": "S20250128", "first_name": "Anna", "last_name": "Sokolov", "group": "CS-201", "faculty": "Mathematics", "year": 2023, "current_semester": 8}
+{"student_id": "S20250129", "first_name": "Anna", "last_name": "Sidorov", "group": "SE-101", "faculty": "Computer Science", "year": 2025, "current_semester": 3}
+{"student_id": "S20250130", "first_name": "Alex", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Physics", "year": 2024, "current_semester": 8}
+{"student_id": "S20250131", "first_name": "Dmitry", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Physics", "year": 2022, "current_semester": 7}
+{"student_id": "S20250132", "first_name": "Alex", "last_name": "Lebedev", "group": "SE-201", "faculty": "Computer Science", "year": 2024, "current_semester": 6}
+{"student_id": "S20250133", "first_name": "Dmitry", "last_name": "Ivanov", "group": "SE-101", "faculty": "Physics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250134", "first_name": "Maria", "last_name": "Ivanov", "group": "SE-101", "faculty": "Mathematics", "year": 2025, "current_semester": 1}
+{"student_id": "S20250135", "first_name": "Olga", "last_name": "Sidorov", "group": "CS-102", "faculty": "Engineering", "year": 2024, "current_semester": 1}
+{"student_id": "S20250136", "first_name": "Maria", "last_name": "Popov", "group": "SE-201", "faculty": "Engineering", "year": 2025, "current_semester": 3}
+{"student_id": "S20250137", "first_name": "Sergey", "last_name": "Popov", "group": "CS-102", "faculty": "Computer Science", "year": 2025, "current_semester": 5}
+{"student_id": "S20250138", "first_name": "Anna", "last_name": "Popov", "group": "CS-102", "faculty": "Engineering", "year": 2023, "current_semester": 4}
+{"student_id": "S20250139", "first_name": "Sergey", "last_name": "Popov", "group": "CS-201", "faculty": "Engineering", "year": 2025, "current_semester": 3}
+{"student_id": "S20250140", "first_name": "Dmitry", "last_name": "Petrov", "group": "CS-201", "faculty": "Engineering", "year": 2022, "current_semester": 5}
+{"student_id": "S20250141", "first_name": "Olga", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Engineering", "year": 2023, "current_semester": 5}
+{"student_id": "S20250142", "first_name": "Sergey", "last_name": "Sokolov", "group": "CS-101", "faculty": "Physics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250143", "first_name": "Sergey", "last_name": "Petrov", "group": "SE-101", "faculty": "Mathematics", "year": 2024, "current_semester": 8}
+{"student_id": "S20250144", "first_name": "Olga", "last_name": "Sokolov", "group": "CS-202", "faculty": "Computer Science", "year": 2022, "current_semester": 3}
+{"student_id": "S20250145", "first_name": "Dmitry", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Physics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250146", "first_name": "Anna", "last_name": "Sidorov", "group": "SE-101", "faculty": "Mathematics", "year": 2025, "current_semester": 6}
+{"student_id": "S20250147", "first_name": "Olga", "last_name": "Popov", "group": "SE-101", "faculty": "Mathematics", "year": 2022, "current_semester": 7}
+{"student_id": "S20250148", "first_name": "Anna", "last_name": "Sokolov", "group": "CS-102", "faculty": "Engineering", "year": 2024, "current_semester": 1}
+{"student_id": "S20250149", "first_name": "Nikita", "last_name": "Popov", "group": "SE-201", "faculty": "Physics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250150", "first_name": "Olga", "last_name": "Petrov", "group": "SE-101", "faculty": "Engineering", "year": 2022, "current_semester": 7}
+{"student_id": "S20250151", "first_name": "Anna", "last_name": "Sidorov", "group": "CS-101", "faculty": "Computer Science", "year": 2024, "current_semester": 2}
+{"student_id": "S20250152", "first_name": "Olga", "last_name": "Smirnov", "group": "CS-202", "faculty": "Mathematics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250153", "first_name": "Elena", "last_name": "Popov", "group": "CS-202", "faculty": "Engineering", "year": 2022, "current_semester": 6}
+{"student_id": "S20250154", "first_name": "Dmitry", "last_name": "Ivanov", "group": "CS-202", "faculty": "Engineering", "year": 2024, "current_semester": 5}
+{"student_id": "S20250155", "first_name": "Dmitry", "last_name": "Petrov", "group": "CS-202", "faculty": "Physics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250156", "first_name": "Olga", "last_name": "Sidorov", "group": "CS-102", "faculty": "Physics", "year": 2022, "current_semester": 3}
+{"student_id": "S20250157", "first_name": "Maria", "last_name": "Popov", "group": "CS-102", "faculty": "Computer Science", "year": 2023, "current_semester": 2}
+{"student_id": "S20250158", "first_name": "Elena", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Computer Science", "year": 2025, "current_semester": 7}
+{"student_id": "S20250159", "first_name": "Dmitry", "last_name": "Sokolov", "group": "CS-201", "faculty": "Physics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250160", "first_name": "Ivan", "last_name": "Smirnov", "group": "CS-102", "faculty": "Computer Science", "year": 2024, "current_semester": 5}
+{"student_id": "S20250161", "first_name": "Sergey", "last_name": "Sidorov", "group": "CS-201", "faculty": "Mathematics", "year": 2025, "current_semester": 7}
+{"student_id": "S20250162", "first_name": "Elena", "last_name": "Ivanov", "group": "CS-201", "faculty": "Computer Science", "year": 2022, "current_semester": 1}
+{"student_id": "S20250163", "first_name": "Sergey", "last_name": "Sidorov", "group": "CS-201", "faculty": "Physics", "year": 2025, "current_semester": 1}
+{"student_id": "S20250164", "first_name": "Ivan", "last_name": "Lebedev", "group": "CS-102", "faculty": "Mathematics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250165", "first_name": "Alex", "last_name": "Lebedev", "group": "SE-101", "faculty": "Mathematics", "year": 2022, "current_semester": 7}
+{"student_id": "S20250166", "first_name": "Ivan", "last_name": "Popov", "group": "SE-201", "faculty": "Mathematics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250167", "first_name": "Ivan", "last_name": "Popov", "group": "CS-102", "faculty": "Engineering", "year": 2024, "current_semester": 5}
+{"student_id": "S20250168", "first_name": "Alex", "last_name": "Smirnov", "group": "CS-201", "faculty": "Computer Science", "year": 2022, "current_semester": 4}
+{"student_id": "S20250169", "first_name": "Nikita", "last_name": "Smirnov", "group": "CS-201", "faculty": "Engineering", "year": 2022, "current_semester": 8}
+{"student_id": "S20250170", "first_name": "Maria", "last_name": "Smirnov", "group": "CS-102", "faculty": "Physics", "year": 2023, "current_semester": 1}
+{"student_id": "S20250171", "first_name": "Nikita", "last_name": "Sidorov", "group": "SE-101", "faculty": "Engineering", "year": 2022, "current_semester": 5}
+{"student_id": "S20250172", "first_name": "Elena", "last_name": "Smirnov", "group": "SE-201", "faculty": "Computer Science", "year": 2023, "current_semester": 3}
+{"student_id": "S20250173", "first_name": "Maria", "last_name": "Ivanov", "group": "CS-101", "faculty": "Mathematics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250174", "first_name": "Nikita", "last_name": "Sokolov", "group": "SE-201", "faculty": "Mathematics", "year": 2024, "current_semester": 3}
+{"student_id": "S20250175", "first_name": "Elena", "last_name": "Popov", "group": "CS-101", "faculty": "Physics", "year": 2022, "current_semester": 2}
+{"student_id": "S20250176", "first_name": "Maria", "last_name": "Popov", "group": "CS-101", "faculty": "Physics", "year": 2022, "current_semester": 2}
+{"student_id": "S20250177", "first_name": "Maria", "last_name": "Sidorov", "group": "CS-102", "faculty": "Computer Science", "year": 2022, "current_semester": 3}
+{"student_id": "S20250178", "first_name": "Ivan", "last_name": "Sokolov", "group": "CS-102", "faculty": "Computer Science", "year": 2023, "current_semester": 2}
+{"student_id": "S20250179", "first_name": "Dmitry", "last_name": "Sokolov", "group": "CS-101", "faculty": "Physics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250180", "first_name": "Anna", "last_name": "Lebedev", "group": "CS-202", "faculty": "Engineering", "year": 2024, "current_semester": 1}
+{"student_id": "S20250181", "first_name": "Alex", "last_name": "Sokolov", "group": "SE-201", "faculty": "Physics", "year": 2022, "current_semester": 7}
+{"student_id": "S20250182", "first_name": "Maria", "last_name": "Lebedev", "group": "SE-201", "faculty": "Physics", "year": 2023, "current_semester": 5}
+{"student_id": "S20250183", "first_name": "Anna", "last_name": "Petrov", "group": "SE-101", "faculty": "Physics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250184", "first_name": "Petr", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Computer Science", "year": 2025, "current_semester": 2}
+{"student_id": "S20250185", "first_name": "Elena", "last_name": "Sidorov", "group": "CS-101", "faculty": "Physics", "year": 2022, "current_semester": 5}
+{"student_id": "S20250186", "first_name": "Petr", "last_name": "Sokolov", "group": "SE-101", "faculty": "Engineering", "year": 2023, "current_semester": 3}
+{"student_id": "S20250187", "first_name": "Anna", "last_name": "Lebedev", "group": "CS-202", "faculty": "Computer Science", "year": 2022, "current_semester": 4}
+{"student_id": "S20250188", "first_name": "Alex", "last_name": "Sidorov", "group": "SE-101", "faculty": "Mathematics", "year": 2022, "current_semester": 2}
+{"student_id": "S20250189", "first_name": "Petr", "last_name": "Sokolov", "group": "CS-101", "faculty": "Physics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250190", "first_name": "Maria", "last_name": "Smirnov", "group": "SE-201", "faculty": "Physics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250191", "first_name": "Dmitry", "last_name": "Kuznetsov", "group": "CS-201", "faculty": "Computer Science", "year": 2024, "current_semester": 3}
+{"student_id": "S20250192", "first_name": "Alex", "last_name": "Sokolov", "group": "CS-201", "faculty": "Mathematics", "year": 2024, "current_semester": 2}
+{"student_id": "S20250193", "first_name": "Olga", "last_name": "Petrov", "group": "SE-101", "faculty": "Mathematics", "year": 2025, "current_semester": 6}
+{"student_id": "S20250194", "first_name": "Nikita", "last_name": "Sidorov", "group": "SE-201", "faculty": "Physics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250195", "first_name": "Dmitry", "last_name": "Lebedev", "group": "CS-101", "faculty": "Engineering", "year": 2024, "current_semester": 6}
+{"student_id": "S20250196", "first_name": "Dmitry", "last_name": "Smirnov", "group": "SE-101", "faculty": "Mathematics", "year": 2022, "current_semester": 4}
+{"student_id": "S20250197", "first_name": "Alex", "last_name": "Ivanov", "group": "SE-101", "faculty": "Physics", "year": 2025, "current_semester": 3}
+{"student_id": "S20250198", "first_name": "Maria", "last_name": "Petrov", "group": "CS-102", "faculty": "Mathematics", "year": 2023, "current_semester": 7}
+{"student_id": "S20250199", "first_name": "Elena", "last_name": "Ivanov", "group": "CS-102", "faculty": "Computer Science", "year": 2024, "current_semester": 1}
+{"student_id": "S20250200", "first_name": "Petr", "last_name": "Ivanov", "group": "CS-101", "faculty": "Mathematics", "year": 2025, "current_semester": 1}
+{"student_id": "S20250201", "first_name": "Anna", "last_name": "Sidorov", "group": "SE-101", "faculty": "Mathematics", "year": 2022, "current_semester": 3}
+{"student_id": "S20250202", "first_name": "Olga", "last_name": "Kuznetsov", "group": "CS-102", "faculty": "Mathematics", "year": 2022, "current_semester": 8}
+{"student_id": "S20250203", "first_name": "Sergey", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Computer Science", "year": 2022, "current_semester": 7}
+{"student_id": "S20250204", "first_name": "Sergey", "last_name": "Lebedev", "group": "CS-102", "faculty": "Mathematics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250205", "first_name": "Ivan", "last_name": "Kuznetsov", "group": "CS-102", "faculty": "Computer Science", "year": 2023, "current_semester": 7}
+{"student_id": "S20250206", "first_name": "Dmitry", "last_name": "Kuznetsov", "group": "CS-102", "faculty": "Physics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250207", "first_name": "Maria", "last_name": "Ivanov", "group": "SE-101", "faculty": "Computer Science", "year": 2023, "current_semester": 2}
+{"student_id": "S20250208", "first_name": "Anna", "last_name": "Popov", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 4}
+{"student_id": "S20250209", "first_name": "Maria", "last_name": "Petrov", "group": "CS-202", "faculty": "Computer Science", "year": 2025, "current_semester": 6}
+{"student_id": "S20250210", "first_name": "Dmitry", "last_name": "Sokolov", "group": "SE-101", "faculty": "Physics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250211", "first_name": "Alex", "last_name": "Smirnov", "group": "CS-202", "faculty": "Physics", "year": 2025, "current_semester": 3}
+{"student_id": "S20250212", "first_name": "Alex", "last_name": "Popov", "group": "CS-101", "faculty": "Computer Science", "year": 2022, "current_semester": 1}
+{"student_id": "S20250213", "first_name": "Sergey", "last_name": "Petrov", "group": "SE-101", "faculty": "Computer Science", "year": 2023, "current_semester": 4}
+{"student_id": "S20250214", "first_name": "Ivan", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Mathematics", "year": 2024, "current_semester": 6}
+{"student_id": "S20250215", "first_name": "Olga", "last_name": "Petrov", "group": "CS-101", "faculty": "Mathematics", "year": 2023, "current_semester": 3}
+{"student_id": "S20250216", "first_name": "Petr", "last_name": "Smirnov", "group": "CS-101", "faculty": "Physics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250217", "first_name": "Nikita", "last_name": "Smirnov", "group": "CS-201", "faculty": "Computer Science", "year": 2024, "current_semester": 7}
+{"student_id": "S20250218", "first_name": "Elena", "last_name": "Kuznetsov", "group": "CS-201", "faculty": "Physics", "year": 2024, "current_semester": 3}
+{"student_id": "S20250219", "first_name": "Anna", "last_name": "Ivanov", "group": "CS-201", "faculty": "Engineering", "year": 2022, "current_semester": 2}
+{"student_id": "S20250220", "first_name": "Elena", "last_name": "Popov", "group": "SE-201", "faculty": "Computer Science", "year": 2024, "current_semester": 1}
+{"student_id": "S20250221", "first_name": "Sergey", "last_name": "Ivanov", "group": "CS-201", "faculty": "Mathematics", "year": 2022, "current_semester": 6}
+{"student_id": "S20250222", "first_name": "Sergey", "last_name": "Popov", "group": "SE-201", "faculty": "Physics", "year": 2024, "current_semester": 6}
+{"student_id": "S20250223", "first_name": "Elena", "last_name": "Lebedev", "group": "CS-102", "faculty": "Engineering", "year": 2022, "current_semester": 4}
+{"student_id": "S20250224", "first_name": "Nikita", "last_name": "Lebedev", "group": "SE-201", "faculty": "Computer Science", "year": 2023, "current_semester": 1}
+{"student_id": "S20250225", "first_name": "Olga", "last_name": "Popov", "group": "CS-102", "faculty": "Physics", "year": 2025, "current_semester": 8}
+{"student_id": "S20250226", "first_name": "Nikita", "last_name": "Sidorov", "group": "CS-102", "faculty": "Computer Science", "year": 2022, "current_semester": 7}
+{"student_id": "S20250227", "first_name": "Ivan", "last_name": "Lebedev", "group": "CS-201", "faculty": "Mathematics", "year": 2022, "current_semester": 2}
+{"student_id": "S20250228", "first_name": "Dmitry", "last_name": "Popov", "group": "CS-202", "faculty": "Computer Science", "year": 2023, "current_semester": 3}
+{"student_id": "S20250229", "first_name": "Nikita", "last_name": "Kuznetsov", "group": "CS-201", "faculty": "Physics", "year": 2025, "current_semester": 8}
+{"student_id": "S20250230", "first_name": "Anna", "last_name": "Smirnov", "group": "CS-102", "faculty": "Physics", "year": 2023, "current_semester": 7}
+{"student_id": "S20250231", "first_name": "Nikita", "last_name": "Sokolov", "group": "CS-201", "faculty": "Physics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250232", "first_name": "Maria", "last_name": "Lebedev", "group": "CS-202", "faculty": "Physics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250233", "first_name": "Elena", "last_name": "Kuznetsov", "group": "SE-101", "faculty": "Mathematics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250234", "first_name": "Alex", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Mathematics", "year": 2022, "current_semester": 7}
+{"student_id": "S20250235", "first_name": "Alex", "last_name": "Petrov", "group": "SE-101", "faculty": "Mathematics", "year": 2022, "current_semester": 5}
+{"student_id": "S20250236", "first_name": "Nikita", "last_name": "Lebedev", "group": "SE-101", "faculty": "Mathematics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250237", "first_name": "Petr", "last_name": "Sokolov", "group": "CS-201", "faculty": "Computer Science", "year": 2024, "current_semester": 4}
+{"student_id": "S20250238", "first_name": "Alex", "last_name": "Sokolov", "group": "SE-201", "faculty": "Computer Science", "year": 2022, "current_semester": 1}
+{"student_id": "S20250239", "first_name": "Sergey", "last_name": "Sidorov", "group": "CS-202", "faculty": "Engineering", "year": 2022, "current_semester": 6}
+{"student_id": "S20250240", "first_name": "Dmitry", "last_name": "Lebedev", "group": "SE-201", "faculty": "Mathematics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250241", "first_name": "Anna", "last_name": "Lebedev", "group": "SE-201", "faculty": "Engineering", "year": 2022, "current_semester": 1}
+{"student_id": "S20250242", "first_name": "Nikita", "last_name": "Ivanov", "group": "SE-201", "faculty": "Engineering", "year": 2023, "current_semester": 7}
+{"student_id": "S20250243", "first_name": "Dmitry", "last_name": "Popov", "group": "SE-101", "faculty": "Computer Science", "year": 2022, "current_semester": 8}
+{"student_id": "S20250244", "first_name": "Sergey", "last_name": "Kuznetsov", "group": "CS-102", "faculty": "Physics", "year": 2022, "current_semester": 2}
+{"student_id": "S20250245", "first_name": "Olga", "last_name": "Popov", "group": "SE-201", "faculty": "Mathematics", "year": 2022, "current_semester": 7}
+{"student_id": "S20250246", "first_name": "Alex", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Physics", "year": 2023, "current_semester": 7}
+{"student_id": "S20250247", "first_name": "Petr", "last_name": "Lebedev", "group": "CS-102", "faculty": "Computer Science", "year": 2022, "current_semester": 5}
+{"student_id": "S20250248", "first_name": "Ivan", "last_name": "Ivanov", "group": "SE-101", "faculty": "Mathematics", "year": 2025, "current_semester": 1}
+{"student_id": "S20250249", "first_name": "Olga", "last_name": "Popov", "group": "CS-202", "faculty": "Engineering", "year": 2025, "current_semester": 8}
+{"student_id": "S20250250", "first_name": "Nikita", "last_name": "Sokolov", "group": "CS-101", "faculty": "Physics", "year": 2022, "current_semester": 7}
+{"student_id": "S20250251", "first_name": "Sergey", "last_name": "Sidorov", "group": "CS-201", "faculty": "Mathematics", "year": 2024, "current_semester": 2}
+{"student_id": "S20250252", "first_name": "Anna", "last_name": "Lebedev", "group": "CS-202", "faculty": "Engineering", "year": 2022, "current_semester": 6}
+{"student_id": "S20250253", "first_name": "Nikita", "last_name": "Lebedev", "group": "CS-102", "faculty": "Mathematics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250254", "first_name": "Alex", "last_name": "Kuznetsov", "group": "CS-102", "faculty": "Physics", "year": 2022, "current_semester": 8}
+{"student_id": "S20250255", "first_name": "Maria", "last_name": "Petrov", "group": "SE-201", "faculty": "Mathematics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250256", "first_name": "Anna", "last_name": "Sidorov", "group": "CS-101", "faculty": "Physics", "year": 2022, "current_semester": 5}
+{"student_id": "S20250257", "first_name": "Alex", "last_name": "Sidorov", "group": "SE-201", "faculty": "Mathematics", "year": 2023, "current_semester": 8}
+{"student_id": "S20250258", "first_name": "Petr", "last_name": "Petrov", "group": "SE-201", "faculty": "Physics", "year": 2023, "current_semester": 3}
+{"student_id": "S20250259", "first_name": "Elena", "last_name": "Petrov", "group": "CS-102", "faculty": "Computer Science", "year": 2024, "current_semester": 5}
+{"student_id": "S20250260", "first_name": "Elena", "last_name": "Popov", "group": "SE-201", "faculty": "Physics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250261", "first_name": "Sergey", "last_name": "Kuznetsov", "group": "CS-201", "faculty": "Physics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250262", "first_name": "Anna", "last_name": "Popov", "group": "CS-201", "faculty": "Computer Science", "year": 2022, "current_semester": 1}
+{"student_id": "S20250263", "first_name": "Elena", "last_name": "Sidorov", "group": "SE-101", "faculty": "Physics", "year": 2024, "current_semester": 6}
+{"student_id": "S20250264", "first_name": "Petr", "last_name": "Smirnov", "group": "CS-102", "faculty": "Physics", "year": 2022, "current_semester": 3}
+{"student_id": "S20250265", "first_name": "Ivan", "last_name": "Lebedev", "group": "CS-201", "faculty": "Physics", "year": 2024, "current_semester": 2}
+{"student_id": "S20250266", "first_name": "Alex", "last_name": "Ivanov", "group": "CS-201", "faculty": "Physics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250267", "first_name": "Elena", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Mathematics", "year": 2024, "current_semester": 2}
+{"student_id": "S20250268", "first_name": "Maria", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Computer Science", "year": 2023, "current_semester": 3}
+{"student_id": "S20250269", "first_name": "Olga", "last_name": "Petrov", "group": "CS-201", "faculty": "Engineering", "year": 2022, "current_semester": 2}
+{"student_id": "S20250270", "first_name": "Dmitry", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Engineering", "year": 2025, "current_semester": 5}
+{"student_id": "S20250271", "first_name": "Alex", "last_name": "Smirnov", "group": "CS-201", "faculty": "Computer Science", "year": 2025, "current_semester": 4}
+{"student_id": "S20250272", "first_name": "Maria", "last_name": "Petrov", "group": "CS-201", "faculty": "Engineering", "year": 2023, "current_semester": 7}
+{"student_id": "S20250273", "first_name": "Anna", "last_name": "Ivanov", "group": "SE-101", "faculty": "Mathematics", "year": 2023, "current_semester": 5}
+{"student_id": "S20250274", "first_name": "Anna", "last_name": "Sokolov", "group": "CS-202", "faculty": "Mathematics", "year": 2023, "current_semester": 7}
+{"student_id": "S20250275", "first_name": "Maria", "last_name": "Petrov", "group": "SE-201", "faculty": "Computer Science", "year": 2025, "current_semester": 3}
+{"student_id": "S20250276", "first_name": "Maria", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Engineering", "year": 2022, "current_semester": 3}
+{"student_id": "S20250277", "first_name": "Dmitry", "last_name": "Petrov", "group": "CS-102", "faculty": "Mathematics", "year": 2022, "current_semester": 8}
+{"student_id": "S20250278", "first_name": "Sergey", "last_name": "Petrov", "group": "CS-202", "faculty": "Physics", "year": 2023, "current_semester": 3}
+{"student_id": "S20250279", "first_name": "Ivan", "last_name": "Smirnov", "group": "SE-201", "faculty": "Computer Science", "year": 2024, "current_semester": 8}
+{"student_id": "S20250280", "first_name": "Nikita", "last_name": "Sidorov", "group": "CS-202", "faculty": "Mathematics", "year": 2023, "current_semester": 1}
+{"student_id": "S20250281", "first_name": "Elena", "last_name": "Sokolov", "group": "SE-201", "faculty": "Physics", "year": 2025, "current_semester": 6}
+{"student_id": "S20250282", "first_name": "Sergey", "last_name": "Ivanov", "group": "SE-201", "faculty": "Physics", "year": 2024, "current_semester": 6}
+{"student_id": "S20250283", "first_name": "Nikita", "last_name": "Ivanov", "group": "CS-202", "faculty": "Computer Science", "year": 2024, "current_semester": 3}
+{"student_id": "S20250284", "first_name": "Maria", "last_name": "Ivanov", "group": "CS-201", "faculty": "Physics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250285", "first_name": "Anna", "last_name": "Sokolov", "group": "CS-102", "faculty": "Computer Science", "year": 2023, "current_semester": 3}
+{"student_id": "S20250286", "first_name": "Dmitry", "last_name": "Lebedev", "group": "SE-201", "faculty": "Computer Science", "year": 2024, "current_semester": 4}
+{"student_id": "S20250287", "first_name": "Ivan", "last_name": "Smirnov", "group": "CS-101", "faculty": "Mathematics", "year": 2022, "current_semester": 5}
+{"student_id": "S20250288", "first_name": "Petr", "last_name": "Sidorov", "group": "SE-101", "faculty": "Computer Science", "year": 2022, "current_semester": 1}
+{"student_id": "S20250289", "first_name": "Sergey", "last_name": "Sidorov", "group": "CS-101", "faculty": "Mathematics", "year": 2022, "current_semester": 6}
+{"student_id": "S20250290", "first_name": "Nikita", "last_name": "Sokolov", "group": "CS-201", "faculty": "Engineering", "year": 2025, "current_semester": 6}
+{"student_id": "S20250291", "first_name": "Alex", "last_name": "Lebedev", "group": "CS-201", "faculty": "Engineering", "year": 2025, "current_semester": 8}
+{"student_id": "S20250292", "first_name": "Elena", "last_name": "Kuznetsov", "group": "SE-101", "faculty": "Physics", "year": 2024, "current_semester": 7}
+{"student_id": "S20250293", "first_name": "Dmitry", "last_name": "Popov", "group": "CS-101", "faculty": "Computer Science", "year": 2025, "current_semester": 3}
+{"student_id": "S20250294", "first_name": "Maria", "last_name": "Sokolov", "group": "SE-101", "faculty": "Computer Science", "year": 2025, "current_semester": 1}
+{"student_id": "S20250295", "first_name": "Ivan", "last_name": "Ivanov", "group": "SE-201", "faculty": "Computer Science", "year": 2022, "current_semester": 8}
+{"student_id": "S20250296", "first_name": "Elena", "last_name": "Popov", "group": "CS-201", "faculty": "Mathematics", "year": 2025, "current_semester": 8}
+{"student_id": "S20250297", "first_name": "Olga", "last_name": "Petrov", "group": "CS-202", "faculty": "Engineering", "year": 2022, "current_semester": 5}
+{"student_id": "S20250298", "first_name": "Nikita", "last_name": "Ivanov", "group": "SE-201", "faculty": "Mathematics", "year": 2025, "current_semester": 3}
+{"student_id": "S20250299", "first_name": "Sergey", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Mathematics", "year": 2025, "current_semester": 1}
+{"student_id": "S20250300", "first_name": "Anna", "last_name": "Lebedev", "group": "SE-101", "faculty": "Engineering", "year": 2022, "current_semester": 8}
+{"student_id": "S20250301", "first_name": "Alex", "last_name": "Sidorov", "group": "SE-101", "faculty": "Physics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250302", "first_name": "Petr", "last_name": "Sidorov", "group": "SE-101", "faculty": "Computer Science", "year": 2022, "current_semester": 2}
+{"student_id": "S20250303", "first_name": "Alex", "last_name": "Sokolov", "group": "SE-201", "faculty": "Physics", "year": 2025, "current_semester": 4}
+{"student_id": "S20250304", "first_name": "Dmitry", "last_name": "Ivanov", "group": "CS-102", "faculty": "Physics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250305", "first_name": "Elena", "last_name": "Petrov", "group": "CS-101", "faculty": "Computer Science", "year": 2025, "current_semester": 1}
+{"student_id": "S20250306", "first_name": "Sergey", "last_name": "Smirnov", "group": "SE-101", "faculty": "Physics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250307", "first_name": "Olga", "last_name": "Lebedev", "group": "CS-201", "faculty": "Mathematics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250308", "first_name": "Olga", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Physics", "year": 2022, "current_semester": 5}
+{"student_id": "S20250309", "first_name": "Maria", "last_name": "Smirnov", "group": "CS-102", "faculty": "Physics", "year": 2022, "current_semester": 5}
+{"student_id": "S20250310", "first_name": "Sergey", "last_name": "Kuznetsov", "group": "SE-101", "faculty": "Mathematics", "year": 2022, "current_semester": 8}
+{"student_id": "S20250311", "first_name": "Maria", "last_name": "Smirnov", "group": "CS-102", "faculty": "Mathematics", "year": 2024, "current_semester": 8}
+{"student_id": "S20250312", "first_name": "Ivan", "last_name": "Petrov", "group": "SE-101", "faculty": "Engineering", "year": 2022, "current_semester": 7}
+{"student_id": "S20250313", "first_name": "Nikita", "last_name": "Sokolov", "group": "CS-102", "faculty": "Computer Science", "year": 2025, "current_semester": 1}
+{"student_id": "S20250314", "first_name": "Petr", "last_name": "Petrov", "group": "SE-101", "faculty": "Mathematics", "year": 2024, "current_semester": 7}
+{"student_id": "S20250315", "first_name": "Ivan", "last_name": "Petrov", "group": "SE-101", "faculty": "Engineering", "year": 2024, "current_semester": 6}
+{"student_id": "S20250316", "first_name": "Alex", "last_name": "Lebedev", "group": "SE-201", "faculty": "Physics", "year": 2023, "current_semester": 1}
+{"student_id": "S20250317", "first_name": "Anna", "last_name": "Sokolov", "group": "SE-101", "faculty": "Mathematics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250318", "first_name": "Anna", "last_name": "Petrov", "group": "CS-202", "faculty": "Computer Science", "year": 2023, "current_semester": 8}
+{"student_id": "S20250319", "first_name": "Elena", "last_name": "Lebedev", "group": "CS-201", "faculty": "Computer Science", "year": 2025, "current_semester": 8}
+{"student_id": "S20250320", "first_name": "Alex", "last_name": "Popov", "group": "SE-201", "faculty": "Physics", "year": 2025, "current_semester": 3}
+{"student_id": "S20250321", "first_name": "Nikita", "last_name": "Sokolov", "group": "SE-101", "faculty": "Physics", "year": 2024, "current_semester": 2}
+{"student_id": "S20250322", "first_name": "Nikita", "last_name": "Ivanov", "group": "CS-102", "faculty": "Physics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250323", "first_name": "Alex", "last_name": "Ivanov", "group": "CS-202", "faculty": "Engineering", "year": 2022, "current_semester": 8}
+{"student_id": "S20250324", "first_name": "Dmitry", "last_name": "Petrov", "group": "SE-201", "faculty": "Computer Science", "year": 2023, "current_semester": 5}
+{"student_id": "S20250325", "first_name": "Dmitry", "last_name": "Sokolov", "group": "SE-201", "faculty": "Engineering", "year": 2023, "current_semester": 2}
+{"student_id": "S20250326", "first_name": "Olga", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 1}
+{"student_id": "S20250327", "first_name": "Dmitry", "last_name": "Kuznetsov", "group": "CS-201", "faculty": "Computer Science", "year": 2024, "current_semester": 8}
+{"student_id": "S20250328", "first_name": "Anna", "last_name": "Petrov", "group": "CS-102", "faculty": "Mathematics", "year": 2024, "current_semester": 3}
+{"student_id": "S20250329", "first_name": "Sergey", "last_name": "Sidorov", "group": "CS-101", "faculty": "Engineering", "year": 2024, "current_semester": 2}
+{"student_id": "S20250330", "first_name": "Nikita", "last_name": "Popov", "group": "CS-101", "faculty": "Engineering", "year": 2024, "current_semester": 5}
+{"student_id": "S20250331", "first_name": "Olga", "last_name": "Smirnov", "group": "CS-102", "faculty": "Engineering", "year": 2025, "current_semester": 2}
+{"student_id": "S20250332", "first_name": "Elena", "last_name": "Popov", "group": "CS-102", "faculty": "Engineering", "year": 2024, "current_semester": 1}
+{"student_id": "S20250333", "first_name": "Nikita", "last_name": "Ivanov", "group": "SE-201", "faculty": "Mathematics", "year": 2024, "current_semester": 2}
+{"student_id": "S20250334", "first_name": "Sergey", "last_name": "Popov", "group": "CS-201", "faculty": "Engineering", "year": 2023, "current_semester": 7}
+{"student_id": "S20250335", "first_name": "Nikita", "last_name": "Petrov", "group": "SE-101", "faculty": "Physics", "year": 2023, "current_semester": 7}
+{"student_id": "S20250336", "first_name": "Maria", "last_name": "Popov", "group": "SE-101", "faculty": "Engineering", "year": 2024, "current_semester": 4}
+{"student_id": "S20250337", "first_name": "Ivan", "last_name": "Popov", "group": "CS-201", "faculty": "Mathematics", "year": 2024, "current_semester": 7}
+{"student_id": "S20250338", "first_name": "Anna", "last_name": "Petrov", "group": "CS-202", "faculty": "Engineering", "year": 2023, "current_semester": 4}
+{"student_id": "S20250339", "first_name": "Dmitry", "last_name": "Petrov", "group": "CS-102", "faculty": "Mathematics", "year": 2023, "current_semester": 7}
+{"student_id": "S20250340", "first_name": "Nikita", "last_name": "Sidorov", "group": "SE-101", "faculty": "Engineering", "year": 2024, "current_semester": 4}
+{"student_id": "S20250341", "first_name": "Anna", "last_name": "Ivanov", "group": "CS-201", "faculty": "Physics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250342", "first_name": "Elena", "last_name": "Lebedev", "group": "SE-101", "faculty": "Engineering", "year": 2022, "current_semester": 7}
+{"student_id": "S20250343", "first_name": "Sergey", "last_name": "Sokolov", "group": "CS-101", "faculty": "Engineering", "year": 2024, "current_semester": 5}
+{"student_id": "S20250344", "first_name": "Maria", "last_name": "Sokolov", "group": "CS-201", "faculty": "Physics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250345", "first_name": "Anna", "last_name": "Sokolov", "group": "SE-201", "faculty": "Physics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250346", "first_name": "Sergey", "last_name": "Sokolov", "group": "CS-202", "faculty": "Mathematics", "year": 2025, "current_semester": 1}
+{"student_id": "S20250347", "first_name": "Petr", "last_name": "Sokolov", "group": "CS-202", "faculty": "Engineering", "year": 2023, "current_semester": 6}
+{"student_id": "S20250348", "first_name": "Nikita", "last_name": "Popov", "group": "CS-102", "faculty": "Physics", "year": 2024, "current_semester": 8}
+{"student_id": "S20250349", "first_name": "Elena", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Mathematics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250350", "first_name": "Dmitry", "last_name": "Sokolov", "group": "CS-101", "faculty": "Engineering", "year": 2025, "current_semester": 8}
+{"student_id": "S20250351", "first_name": "Alex", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Mathematics", "year": 2025, "current_semester": 8}
+{"student_id": "S20250352", "first_name": "Ivan", "last_name": "Sokolov", "group": "CS-102", "faculty": "Physics", "year": 2024, "current_semester": 3}
+{"student_id": "S20250353", "first_name": "Dmitry", "last_name": "Sidorov", "group": "CS-102", "faculty": "Engineering", "year": 2024, "current_semester": 6}
+{"student_id": "S20250354", "first_name": "Nikita", "last_name": "Ivanov", "group": "SE-101", "faculty": "Mathematics", "year": 2023, "current_semester": 8}
+{"student_id": "S20250355", "first_name": "Elena", "last_name": "Sokolov", "group": "CS-201", "faculty": "Physics", "year": 2023, "current_semester": 1}
+{"student_id": "S20250356", "first_name": "Maria", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 7}
+{"student_id": "S20250357", "first_name": "Petr", "last_name": "Popov", "group": "SE-201", "faculty": "Engineering", "year": 2024, "current_semester": 4}
+{"student_id": "S20250358", "first_name": "Dmitry", "last_name": "Smirnov", "group": "CS-102", "faculty": "Physics", "year": 2022, "current_semester": 4}
+{"student_id": "S20250359", "first_name": "Petr", "last_name": "Lebedev", "group": "CS-102", "faculty": "Computer Science", "year": 2025, "current_semester": 6}
+{"student_id": "S20250360", "first_name": "Nikita", "last_name": "Smirnov", "group": "CS-101", "faculty": "Physics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250361", "first_name": "Maria", "last_name": "Ivanov", "group": "CS-102", "faculty": "Mathematics", "year": 2022, "current_semester": 2}
+{"student_id": "S20250362", "first_name": "Alex", "last_name": "Kuznetsov", "group": "CS-201", "faculty": "Computer Science", "year": 2023, "current_semester": 1}
+{"student_id": "S20250363", "first_name": "Nikita", "last_name": "Petrov", "group": "SE-101", "faculty": "Computer Science", "year": 2024, "current_semester": 1}
+{"student_id": "S20250364", "first_name": "Nikita", "last_name": "Ivanov", "group": "CS-102", "faculty": "Computer Science", "year": 2022, "current_semester": 6}
+{"student_id": "S20250365", "first_name": "Ivan", "last_name": "Ivanov", "group": "CS-202", "faculty": "Mathematics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250366", "first_name": "Elena", "last_name": "Popov", "group": "CS-201", "faculty": "Engineering", "year": 2024, "current_semester": 2}
+{"student_id": "S20250367", "first_name": "Olga", "last_name": "Sokolov", "group": "SE-101", "faculty": "Engineering", "year": 2024, "current_semester": 5}
+{"student_id": "S20250368", "first_name": "Olga", "last_name": "Ivanov", "group": "SE-101", "faculty": "Physics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250369", "first_name": "Olga", "last_name": "Sidorov", "group": "SE-101", "faculty": "Engineering", "year": 2024, "current_semester": 8}
+{"student_id": "S20250370", "first_name": "Alex", "last_name": "Petrov", "group": "CS-202", "faculty": "Physics", "year": 2023, "current_semester": 1}
+{"student_id": "S20250371", "first_name": "Olga", "last_name": "Petrov", "group": "SE-201", "faculty": "Physics", "year": 2025, "current_semester": 1}
+{"student_id": "S20250372", "first_name": "Nikita", "last_name": "Lebedev", "group": "CS-101", "faculty": "Engineering", "year": 2024, "current_semester": 7}
+{"student_id": "S20250373", "first_name": "Nikita", "last_name": "Sidorov", "group": "CS-102", "faculty": "Computer Science", "year": 2022, "current_semester": 6}
+{"student_id": "S20250374", "first_name": "Maria", "last_name": "Smirnov", "group": "SE-101", "faculty": "Engineering", "year": 2022, "current_semester": 5}
+{"student_id": "S20250375", "first_name": "Anna", "last_name": "Sidorov", "group": "CS-202", "faculty": "Mathematics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250376", "first_name": "Petr", "last_name": "Popov", "group": "CS-202", "faculty": "Physics", "year": 2022, "current_semester": 3}
+{"student_id": "S20250377", "first_name": "Anna", "last_name": "Petrov", "group": "SE-201", "faculty": "Physics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250378", "first_name": "Nikita", "last_name": "Smirnov", "group": "CS-202", "faculty": "Engineering", "year": 2022, "current_semester": 2}
+{"student_id": "S20250379", "first_name": "Anna", "last_name": "Ivanov", "group": "CS-202", "faculty": "Computer Science", "year": 2024, "current_semester": 5}
+{"student_id": "S20250380", "first_name": "Sergey", "last_name": "Petrov", "group": "CS-201", "faculty": "Mathematics", "year": 2022, "current_semester": 5}
+{"student_id": "S20250381", "first_name": "Petr", "last_name": "Popov", "group": "CS-202", "faculty": "Engineering", "year": 2023, "current_semester": 8}
+{"student_id": "S20250382", "first_name": "Nikita", "last_name": "Smirnov", "group": "CS-202", "faculty": "Physics", "year": 2024, "current_semester": 6}
+{"student_id": "S20250383", "first_name": "Anna", "last_name": "Sidorov", "group": "SE-101", "faculty": "Physics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250384", "first_name": "Maria", "last_name": "Sidorov", "group": "CS-201", "faculty": "Computer Science", "year": 2024, "current_semester": 1}
+{"student_id": "S20250385", "first_name": "Ivan", "last_name": "Ivanov", "group": "CS-202", "faculty": "Engineering", "year": 2025, "current_semester": 8}
+{"student_id": "S20250386", "first_name": "Elena", "last_name": "Petrov", "group": "SE-201", "faculty": "Engineering", "year": 2025, "current_semester": 7}
+{"student_id": "S20250387", "first_name": "Alex", "last_name": "Sokolov", "group": "CS-201", "faculty": "Physics", "year": 2024, "current_semester": 6}
+{"student_id": "S20250388", "first_name": "Anna", "last_name": "Sidorov", "group": "CS-102", "faculty": "Computer Science", "year": 2025, "current_semester": 6}
+{"student_id": "S20250389", "first_name": "Anna", "last_name": "Petrov", "group": "SE-101", "faculty": "Mathematics", "year": 2024, "current_semester": 2}
+{"student_id": "S20250390", "first_name": "Ivan", "last_name": "Sidorov", "group": "SE-201", "faculty": "Computer Science", "year": 2023, "current_semester": 4}
+{"student_id": "S20250391", "first_name": "Elena", "last_name": "Popov", "group": "CS-102", "faculty": "Computer Science", "year": 2024, "current_semester": 2}
+{"student_id": "S20250392", "first_name": "Anna", "last_name": "Smirnov", "group": "SE-201", "faculty": "Engineering", "year": 2022, "current_semester": 3}
+{"student_id": "S20250393", "first_name": "Alex", "last_name": "Popov", "group": "SE-101", "faculty": "Physics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250394", "first_name": "Olga", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Mathematics", "year": 2023, "current_semester": 1}
+{"student_id": "S20250395", "first_name": "Nikita", "last_name": "Ivanov", "group": "SE-101", "faculty": "Computer Science", "year": 2024, "current_semester": 3}
+{"student_id": "S20250396", "first_name": "Alex", "last_name": "Smirnov", "group": "CS-101", "faculty": "Computer Science", "year": 2024, "current_semester": 5}
+{"student_id": "S20250397", "first_name": "Olga", "last_name": "Lebedev", "group": "CS-101", "faculty": "Computer Science", "year": 2022, "current_semester": 4}
+{"student_id": "S20250398", "first_name": "Alex", "last_name": "Sidorov", "group": "CS-102", "faculty": "Computer Science", "year": 2025, "current_semester": 4}
+{"student_id": "S20250399", "first_name": "Ivan", "last_name": "Petrov", "group": "CS-201", "faculty": "Mathematics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250400", "first_name": "Nikita", "last_name": "Sokolov", "group": "CS-201", "faculty": "Engineering", "year": 2022, "current_semester": 1}
+{"student_id": "S20250401", "first_name": "Dmitry", "last_name": "Popov", "group": "CS-201", "faculty": "Physics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250402", "first_name": "Sergey", "last_name": "Ivanov", "group": "CS-102", "faculty": "Physics", "year": 2023, "current_semester": 8}
+{"student_id": "S20250403", "first_name": "Maria", "last_name": "Smirnov", "group": "CS-201", "faculty": "Computer Science", "year": 2025, "current_semester": 3}
+{"student_id": "S20250404", "first_name": "Olga", "last_name": "Lebedev", "group": "CS-202", "faculty": "Computer Science", "year": 2022, "current_semester": 2}
+{"student_id": "S20250405", "first_name": "Ivan", "last_name": "Lebedev", "group": "SE-101", "faculty": "Physics", "year": 2023, "current_semester": 7}
+{"student_id": "S20250406", "first_name": "Elena", "last_name": "Smirnov", "group": "SE-201", "faculty": "Engineering", "year": 2024, "current_semester": 7}
+{"student_id": "S20250407", "first_name": "Olga", "last_name": "Popov", "group": "SE-201", "faculty": "Engineering", "year": 2024, "current_semester": 8}
+{"student_id": "S20250408", "first_name": "Anna", "last_name": "Sidorov", "group": "SE-101", "faculty": "Computer Science", "year": 2025, "current_semester": 7}
+{"student_id": "S20250409", "first_name": "Olga", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Physics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250410", "first_name": "Ivan", "last_name": "Petrov", "group": "CS-202", "faculty": "Physics", "year": 2025, "current_semester": 8}
+{"student_id": "S20250411", "first_name": "Anna", "last_name": "Popov", "group": "CS-102", "faculty": "Mathematics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250412", "first_name": "Ivan", "last_name": "Smirnov", "group": "SE-201", "faculty": "Engineering", "year": 2025, "current_semester": 3}
+{"student_id": "S20250413", "first_name": "Anna", "last_name": "Kuznetsov", "group": "SE-101", "faculty": "Physics", "year": 2022, "current_semester": 4}
+{"student_id": "S20250414", "first_name": "Petr", "last_name": "Popov", "group": "CS-102", "faculty": "Mathematics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250415", "first_name": "Anna", "last_name": "Petrov", "group": "CS-102", "faculty": "Engineering", "year": 2023, "current_semester": 6}
+{"student_id": "S20250416", "first_name": "Dmitry", "last_name": "Sidorov", "group": "CS-101", "faculty": "Computer Science", "year": 2024, "current_semester": 6}
+{"student_id": "S20250417", "first_name": "Ivan", "last_name": "Kuznetsov", "group": "CS-102", "faculty": "Mathematics", "year": 2025, "current_semester": 4}
+{"student_id": "S20250418", "first_name": "Olga", "last_name": "Petrov", "group": "SE-201", "faculty": "Engineering", "year": 2022, "current_semester": 2}
+{"student_id": "S20250419", "first_name": "Petr", "last_name": "Ivanov", "group": "SE-101", "faculty": "Engineering", "year": 2023, "current_semester": 8}
+{"student_id": "S20250420", "first_name": "Ivan", "last_name": "Sokolov", "group": "SE-101", "faculty": "Computer Science", "year": 2023, "current_semester": 7}
+{"student_id": "S20250421", "first_name": "Ivan", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Engineering", "year": 2025, "current_semester": 3}
+{"student_id": "S20250422", "first_name": "Sergey", "last_name": "Ivanov", "group": "SE-201", "faculty": "Computer Science", "year": 2022, "current_semester": 3}
+{"student_id": "S20250423", "first_name": "Anna", "last_name": "Smirnov", "group": "SE-201", "faculty": "Physics", "year": 2024, "current_semester": 8}
+{"student_id": "S20250424", "first_name": "Maria", "last_name": "Ivanov", "group": "CS-102", "faculty": "Computer Science", "year": 2024, "current_semester": 3}
+{"student_id": "S20250425", "first_name": "Olga", "last_name": "Sokolov", "group": "CS-202", "faculty": "Computer Science", "year": 2025, "current_semester": 7}
+{"student_id": "S20250426", "first_name": "Olga", "last_name": "Sidorov", "group": "CS-202", "faculty": "Engineering", "year": 2024, "current_semester": 5}
+{"student_id": "S20250427", "first_name": "Nikita", "last_name": "Lebedev", "group": "CS-202", "faculty": "Engineering", "year": 2024, "current_semester": 7}
+{"student_id": "S20250428", "first_name": "Elena", "last_name": "Ivanov", "group": "CS-201", "faculty": "Engineering", "year": 2022, "current_semester": 5}
+{"student_id": "S20250429", "first_name": "Olga", "last_name": "Sidorov", "group": "CS-101", "faculty": "Engineering", "year": 2024, "current_semester": 1}
+{"student_id": "S20250430", "first_name": "Elena", "last_name": "Ivanov", "group": "CS-201", "faculty": "Engineering", "year": 2023, "current_semester": 1}
+{"student_id": "S20250431", "first_name": "Elena", "last_name": "Lebedev", "group": "SE-201", "faculty": "Mathematics", "year": 2025, "current_semester": 4}
+{"student_id": "S20250432", "first_name": "Maria", "last_name": "Popov", "group": "CS-101", "faculty": "Mathematics", "year": 2024, "current_semester": 7}
+{"student_id": "S20250433", "first_name": "Maria", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Physics", "year": 2025, "current_semester": 1}
+{"student_id": "S20250434", "first_name": "Olga", "last_name": "Sokolov", "group": "CS-101", "faculty": "Computer Science", "year": 2023, "current_semester": 8}
+{"student_id": "S20250435", "first_name": "Alex", "last_name": "Smirnov", "group": "CS-202", "faculty": "Engineering", "year": 2024, "current_semester": 2}
+{"student_id": "S20250436", "first_name": "Nikita", "last_name": "Petrov", "group": "SE-101", "faculty": "Computer Science", "year": 2022, "current_semester": 1}
+{"student_id": "S20250437", "first_name": "Ivan", "last_name": "Lebedev", "group": "CS-102", "faculty": "Mathematics", "year": 2024, "current_semester": 8}
+{"student_id": "S20250438", "first_name": "Anna", "last_name": "Ivanov", "group": "CS-101", "faculty": "Computer Science", "year": 2025, "current_semester": 6}
+{"student_id": "S20250439", "first_name": "Olga", "last_name": "Ivanov", "group": "CS-201", "faculty": "Mathematics", "year": 2022, "current_semester": 7}
+{"student_id": "S20250440", "first_name": "Olga", "last_name": "Sidorov", "group": "CS-102", "faculty": "Computer Science", "year": 2024, "current_semester": 7}
+{"student_id": "S20250441", "first_name": "Elena", "last_name": "Sidorov", "group": "SE-101", "faculty": "Computer Science", "year": 2025, "current_semester": 8}
+{"student_id": "S20250442", "first_name": "Maria", "last_name": "Lebedev", "group": "SE-101", "faculty": "Computer Science", "year": 2024, "current_semester": 5}
+{"student_id": "S20250443", "first_name": "Maria", "last_name": "Sidorov", "group": "CS-201", "faculty": "Mathematics", "year": 2022, "current_semester": 8}
+{"student_id": "S20250444", "first_name": "Maria", "last_name": "Petrov", "group": "CS-101", "faculty": "Mathematics", "year": 2022, "current_semester": 4}
+{"student_id": "S20250445", "first_name": "Olga", "last_name": "Popov", "group": "CS-201", "faculty": "Computer Science", "year": 2024, "current_semester": 8}
+{"student_id": "S20250446", "first_name": "Sergey", "last_name": "Sokolov", "group": "CS-201", "faculty": "Engineering", "year": 2022, "current_semester": 7}
+{"student_id": "S20250447", "first_name": "Ivan", "last_name": "Ivanov", "group": "SE-101", "faculty": "Mathematics", "year": 2024, "current_semester": 8}
+{"student_id": "S20250448", "first_name": "Petr", "last_name": "Kuznetsov", "group": "CS-201", "faculty": "Physics", "year": 2024, "current_semester": 2}
+{"student_id": "S20250449", "first_name": "Elena", "last_name": "Popov", "group": "SE-201", "faculty": "Engineering", "year": 2024, "current_semester": 3}
+{"student_id": "S20250450", "first_name": "Elena", "last_name": "Kuznetsov", "group": "SE-101", "faculty": "Physics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250451", "first_name": "Ivan", "last_name": "Popov", "group": "SE-201", "faculty": "Engineering", "year": 2023, "current_semester": 6}
+{"student_id": "S20250452", "first_name": "Elena", "last_name": "Ivanov", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 2}
+{"student_id": "S20250453", "first_name": "Olga", "last_name": "Petrov", "group": "SE-201", "faculty": "Engineering", "year": 2025, "current_semester": 2}
+{"student_id": "S20250454", "first_name": "Anna", "last_name": "Ivanov", "group": "CS-201", "faculty": "Mathematics", "year": 2022, "current_semester": 8}
+{"student_id": "S20250455", "first_name": "Maria", "last_name": "Sidorov", "group": "SE-201", "faculty": "Computer Science", "year": 2023, "current_semester": 3}
+{"student_id": "S20250456", "first_name": "Anna", "last_name": "Sokolov", "group": "SE-201", "faculty": "Computer Science", "year": 2025, "current_semester": 5}
+{"student_id": "S20250457", "first_name": "Elena", "last_name": "Sokolov", "group": "CS-202", "faculty": "Mathematics", "year": 2022, "current_semester": 8}
+{"student_id": "S20250458", "first_name": "Alex", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 6}
+{"student_id": "S20250459", "first_name": "Maria", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Engineering", "year": 2025, "current_semester": 5}
+{"student_id": "S20250460", "first_name": "Alex", "last_name": "Smirnov", "group": "CS-201", "faculty": "Computer Science", "year": 2022, "current_semester": 5}
+{"student_id": "S20250461", "first_name": "Maria", "last_name": "Ivanov", "group": "CS-202", "faculty": "Mathematics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250462", "first_name": "Maria", "last_name": "Sokolov", "group": "SE-201", "faculty": "Computer Science", "year": 2024, "current_semester": 2}
+{"student_id": "S20250463", "first_name": "Maria", "last_name": "Ivanov", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 5}
+{"student_id": "S20250464", "first_name": "Sergey", "last_name": "Popov", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 2}
+{"student_id": "S20250465", "first_name": "Nikita", "last_name": "Popov", "group": "SE-101", "faculty": "Physics", "year": 2023, "current_semester": 8}
+{"student_id": "S20250466", "first_name": "Maria", "last_name": "Smirnov", "group": "SE-201", "faculty": "Engineering", "year": 2022, "current_semester": 4}
+{"student_id": "S20250467", "first_name": "Petr", "last_name": "Sidorov", "group": "CS-202", "faculty": "Mathematics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250468", "first_name": "Nikita", "last_name": "Ivanov", "group": "SE-101", "faculty": "Engineering", "year": 2024, "current_semester": 1}
+{"student_id": "S20250469", "first_name": "Dmitry", "last_name": "Smirnov", "group": "SE-101", "faculty": "Computer Science", "year": 2022, "current_semester": 1}
+{"student_id": "S20250470", "first_name": "Alex", "last_name": "Popov", "group": "SE-201", "faculty": "Engineering", "year": 2024, "current_semester": 5}
+{"student_id": "S20250471", "first_name": "Dmitry", "last_name": "Sokolov", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 1}
+{"student_id": "S20250472", "first_name": "Dmitry", "last_name": "Lebedev", "group": "CS-201", "faculty": "Engineering", "year": 2024, "current_semester": 3}
+{"student_id": "S20250473", "first_name": "Nikita", "last_name": "Smirnov", "group": "SE-201", "faculty": "Physics", "year": 2022, "current_semester": 6}
+{"student_id": "S20250474", "first_name": "Maria", "last_name": "Popov", "group": "CS-201", "faculty": "Engineering", "year": 2023, "current_semester": 3}
+{"student_id": "S20250475", "first_name": "Maria", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Physics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250476", "first_name": "Nikita", "last_name": "Sidorov", "group": "SE-101", "faculty": "Mathematics", "year": 2023, "current_semester": 3}
+{"student_id": "S20250477", "first_name": "Petr", "last_name": "Ivanov", "group": "SE-101", "faculty": "Computer Science", "year": 2024, "current_semester": 4}
+{"student_id": "S20250478", "first_name": "Sergey", "last_name": "Kuznetsov", "group": "CS-102", "faculty": "Mathematics", "year": 2024, "current_semester": 7}
+{"student_id": "S20250479", "first_name": "Petr", "last_name": "Sokolov", "group": "CS-202", "faculty": "Computer Science", "year": 2024, "current_semester": 7}
+{"student_id": "S20250480", "first_name": "Dmitry", "last_name": "Sokolov", "group": "CS-201", "faculty": "Engineering", "year": 2024, "current_semester": 6}
+{"student_id": "S20250481", "first_name": "Ivan", "last_name": "Ivanov", "group": "SE-101", "faculty": "Engineering", "year": 2023, "current_semester": 4}
+{"student_id": "S20250482", "first_name": "Sergey", "last_name": "Smirnov", "group": "SE-101", "faculty": "Mathematics", "year": 2022, "current_semester": 8}
+{"student_id": "S20250483", "first_name": "Maria", "last_name": "Sidorov", "group": "SE-201", "faculty": "Computer Science", "year": 2024, "current_semester": 6}
+{"student_id": "S20250484", "first_name": "Elena", "last_name": "Popov", "group": "CS-101", "faculty": "Engineering", "year": 2025, "current_semester": 2}
+{"student_id": "S20250485", "first_name": "Sergey", "last_name": "Smirnov", "group": "CS-202", "faculty": "Computer Science", "year": 2023, "current_semester": 2}
+{"student_id": "S20250486", "first_name": "Nikita", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Computer Science", "year": 2023, "current_semester": 5}
+{"student_id": "S20250487", "first_name": "Elena", "last_name": "Petrov", "group": "SE-201", "faculty": "Engineering", "year": 2023, "current_semester": 2}
+{"student_id": "S20250488", "first_name": "Dmitry", "last_name": "Lebedev", "group": "CS-201", "faculty": "Mathematics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250489", "first_name": "Petr", "last_name": "Smirnov", "group": "SE-201", "faculty": "Engineering", "year": 2025, "current_semester": 6}
+{"student_id": "S20250490", "first_name": "Petr", "last_name": "Sokolov", "group": "CS-102", "faculty": "Engineering", "year": 2023, "current_semester": 5}
+{"student_id": "S20250491", "first_name": "Maria", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Physics", "year": 2024, "current_semester": 2}
+{"student_id": "S20250492", "first_name": "Alex", "last_name": "Lebedev", "group": "CS-202", "faculty": "Mathematics", "year": 2022, "current_semester": 5}
+{"student_id": "S20250493", "first_name": "Ivan", "last_name": "Ivanov", "group": "SE-101", "faculty": "Computer Science", "year": 2025, "current_semester": 7}
+{"student_id": "S20250494", "first_name": "Maria", "last_name": "Sidorov", "group": "CS-101", "faculty": "Computer Science", "year": 2025, "current_semester": 7}
+{"student_id": "S20250495", "first_name": "Elena", "last_name": "Lebedev", "group": "SE-201", "faculty": "Mathematics", "year": 2025, "current_semester": 4}
+{"student_id": "S20250496", "first_name": "Ivan", "last_name": "Petrov", "group": "CS-201", "faculty": "Engineering", "year": 2023, "current_semester": 6}
+{"student_id": "S20250497", "first_name": "Maria", "last_name": "Lebedev", "group": "CS-201", "faculty": "Engineering", "year": 2022, "current_semester": 1}
+{"student_id": "S20250498", "first_name": "Dmitry", "last_name": "Petrov", "group": "CS-202", "faculty": "Physics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250499", "first_name": "Alex", "last_name": "Lebedev", "group": "SE-201", "faculty": "Computer Science", "year": 2025, "current_semester": 1}
+{"student_id": "S20250500", "first_name": "Elena", "last_name": "Sokolov", "group": "SE-101", "faculty": "Physics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250501", "first_name": "Anna", "last_name": "Petrov", "group": "CS-202", "faculty": "Computer Science", "year": 2025, "current_semester": 4}
+{"student_id": "S20250502", "first_name": "Elena", "last_name": "Sidorov", "group": "SE-201", "faculty": "Engineering", "year": 2022, "current_semester": 2}
+{"student_id": "S20250503", "first_name": "Maria", "last_name": "Sokolov", "group": "CS-201", "faculty": "Physics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250504", "first_name": "Nikita", "last_name": "Petrov", "group": "CS-101", "faculty": "Computer Science", "year": 2025, "current_semester": 7}
+{"student_id": "S20250505", "first_name": "Anna", "last_name": "Lebedev", "group": "SE-101", "faculty": "Mathematics", "year": 2024, "current_semester": 3}
+{"student_id": "S20250506", "first_name": "Alex", "last_name": "Lebedev", "group": "SE-201", "faculty": "Engineering", "year": 2025, "current_semester": 7}
+{"student_id": "S20250507", "first_name": "Alex", "last_name": "Sokolov", "group": "CS-102", "faculty": "Physics", "year": 2025, "current_semester": 1}
+{"student_id": "S20250508", "first_name": "Dmitry", "last_name": "Sokolov", "group": "CS-201", "faculty": "Computer Science", "year": 2025, "current_semester": 4}
+{"student_id": "S20250509", "first_name": "Sergey", "last_name": "Sidorov", "group": "SE-101", "faculty": "Computer Science", "year": 2023, "current_semester": 3}
+{"student_id": "S20250510", "first_name": "Elena", "last_name": "Popov", "group": "CS-202", "faculty": "Computer Science", "year": 2025, "current_semester": 5}
+{"student_id": "S20250511", "first_name": "Sergey", "last_name": "Petrov", "group": "SE-101", "faculty": "Mathematics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250512", "first_name": "Olga", "last_name": "Sokolov", "group": "CS-202", "faculty": "Computer Science", "year": 2024, "current_semester": 8}
+{"student_id": "S20250513", "first_name": "Maria", "last_name": "Kuznetsov", "group": "CS-201", "faculty": "Physics", "year": 2022, "current_semester": 8}
+{"student_id": "S20250514", "first_name": "Elena", "last_name": "Ivanov", "group": "CS-101", "faculty": "Mathematics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250515", "first_name": "Ivan", "last_name": "Lebedev", "group": "CS-201", "faculty": "Computer Science", "year": 2022, "current_semester": 4}
+{"student_id": "S20250516", "first_name": "Alex", "last_name": "Popov", "group": "CS-202", "faculty": "Engineering", "year": 2023, "current_semester": 4}
+{"student_id": "S20250517", "first_name": "Elena", "last_name": "Kuznetsov", "group": "SE-101", "faculty": "Engineering", "year": 2023, "current_semester": 5}
+{"student_id": "S20250518", "first_name": "Elena", "last_name": "Sidorov", "group": "CS-102", "faculty": "Computer Science", "year": 2025, "current_semester": 1}
+{"student_id": "S20250519", "first_name": "Dmitry", "last_name": "Popov", "group": "CS-202", "faculty": "Physics", "year": 2025, "current_semester": 4}
+{"student_id": "S20250520", "first_name": "Sergey", "last_name": "Popov", "group": "SE-101", "faculty": "Computer Science", "year": 2023, "current_semester": 2}
+{"student_id": "S20250521", "first_name": "Petr", "last_name": "Sidorov", "group": "CS-201", "faculty": "Computer Science", "year": 2023, "current_semester": 2}
+{"student_id": "S20250522", "first_name": "Petr", "last_name": "Sidorov", "group": "SE-101", "faculty": "Engineering", "year": 2025, "current_semester": 1}
+{"student_id": "S20250523", "first_name": "Anna", "last_name": "Popov", "group": "SE-101", "faculty": "Engineering", "year": 2025, "current_semester": 8}
+{"student_id": "S20250524", "first_name": "Olga", "last_name": "Kuznetsov", "group": "CS-102", "faculty": "Engineering", "year": 2024, "current_semester": 2}
+{"student_id": "S20250525", "first_name": "Elena", "last_name": "Ivanov", "group": "CS-101", "faculty": "Mathematics", "year": 2023, "current_semester": 7}
+{"student_id": "S20250526", "first_name": "Olga", "last_name": "Sokolov", "group": "CS-102", "faculty": "Computer Science", "year": 2025, "current_semester": 4}
+{"student_id": "S20250527", "first_name": "Elena", "last_name": "Lebedev", "group": "CS-101", "faculty": "Computer Science", "year": 2023, "current_semester": 3}
+{"student_id": "S20250528", "first_name": "Alex", "last_name": "Lebedev", "group": "CS-202", "faculty": "Computer Science", "year": 2023, "current_semester": 8}
+{"student_id": "S20250529", "first_name": "Dmitry", "last_name": "Petrov", "group": "SE-201", "faculty": "Mathematics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250530", "first_name": "Maria", "last_name": "Popov", "group": "CS-102", "faculty": "Physics", "year": 2025, "current_semester": 1}
+{"student_id": "S20250531", "first_name": "Dmitry", "last_name": "Sokolov", "group": "SE-101", "faculty": "Computer Science", "year": 2024, "current_semester": 6}
+{"student_id": "S20250532", "first_name": "Alex", "last_name": "Smirnov", "group": "CS-101", "faculty": "Mathematics", "year": 2025, "current_semester": 8}
+{"student_id": "S20250533", "first_name": "Petr", "last_name": "Kuznetsov", "group": "SE-101", "faculty": "Computer Science", "year": 2022, "current_semester": 6}
+{"student_id": "S20250534", "first_name": "Olga", "last_name": "Sidorov", "group": "CS-102", "faculty": "Computer Science", "year": 2023, "current_semester": 5}
+{"student_id": "S20250535", "first_name": "Nikita", "last_name": "Sidorov", "group": "SE-201", "faculty": "Mathematics", "year": 2023, "current_semester": 3}
+{"student_id": "S20250536", "first_name": "Sergey", "last_name": "Sokolov", "group": "CS-201", "faculty": "Mathematics", "year": 2025, "current_semester": 1}
+{"student_id": "S20250537", "first_name": "Elena", "last_name": "Smirnov", "group": "CS-102", "faculty": "Physics", "year": 2022, "current_semester": 5}
+{"student_id": "S20250538", "first_name": "Dmitry", "last_name": "Kuznetsov", "group": "SE-101", "faculty": "Computer Science", "year": 2024, "current_semester": 1}
+{"student_id": "S20250539", "first_name": "Anna", "last_name": "Sokolov", "group": "SE-101", "faculty": "Engineering", "year": 2024, "current_semester": 4}
+{"student_id": "S20250540", "first_name": "Alex", "last_name": "Lebedev", "group": "CS-101", "faculty": "Physics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250541", "first_name": "Anna", "last_name": "Lebedev", "group": "CS-101", "faculty": "Engineering", "year": 2022, "current_semester": 4}
+{"student_id": "S20250542", "first_name": "Anna", "last_name": "Sokolov", "group": "CS-202", "faculty": "Physics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250543", "first_name": "Petr", "last_name": "Smirnov", "group": "SE-201", "faculty": "Engineering", "year": 2024, "current_semester": 8}
+{"student_id": "S20250544", "first_name": "Olga", "last_name": "Popov", "group": "CS-102", "faculty": "Physics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250545", "first_name": "Anna", "last_name": "Smirnov", "group": "CS-202", "faculty": "Computer Science", "year": 2023, "current_semester": 8}
+{"student_id": "S20250546", "first_name": "Anna", "last_name": "Lebedev", "group": "CS-101", "faculty": "Mathematics", "year": 2024, "current_semester": 7}
+{"student_id": "S20250547", "first_name": "Petr", "last_name": "Sidorov", "group": "SE-201", "faculty": "Mathematics", "year": 2024, "current_semester": 6}
+{"student_id": "S20250548", "first_name": "Elena", "last_name": "Sokolov", "group": "SE-101", "faculty": "Physics", "year": 2025, "current_semester": 8}
+{"student_id": "S20250549", "first_name": "Sergey", "last_name": "Sokolov", "group": "CS-201", "faculty": "Computer Science", "year": 2024, "current_semester": 1}
+{"student_id": "S20250550", "first_name": "Elena", "last_name": "Ivanov", "group": "CS-102", "faculty": "Computer Science", "year": 2022, "current_semester": 6}
+{"student_id": "S20250551", "first_name": "Anna", "last_name": "Petrov", "group": "SE-101", "faculty": "Engineering", "year": 2025, "current_semester": 3}
+{"student_id": "S20250552", "first_name": "Anna", "last_name": "Lebedev", "group": "SE-101", "faculty": "Computer Science", "year": 2023, "current_semester": 4}
+{"student_id": "S20250553", "first_name": "Elena", "last_name": "Ivanov", "group": "SE-201", "faculty": "Computer Science", "year": 2024, "current_semester": 5}
+{"student_id": "S20250554", "first_name": "Olga", "last_name": "Kuznetsov", "group": "CS-201", "faculty": "Computer Science", "year": 2024, "current_semester": 7}
+{"student_id": "S20250555", "first_name": "Sergey", "last_name": "Sidorov", "group": "SE-201", "faculty": "Mathematics", "year": 2025, "current_semester": 8}
+{"student_id": "S20250556", "first_name": "Nikita", "last_name": "Ivanov", "group": "CS-201", "faculty": "Computer Science", "year": 2022, "current_semester": 5}
+{"student_id": "S20250557", "first_name": "Anna", "last_name": "Lebedev", "group": "SE-101", "faculty": "Physics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250558", "first_name": "Alex", "last_name": "Sokolov", "group": "CS-102", "faculty": "Computer Science", "year": 2023, "current_semester": 8}
+{"student_id": "S20250559", "first_name": "Alex", "last_name": "Smirnov", "group": "CS-101", "faculty": "Engineering", "year": 2024, "current_semester": 3}
+{"student_id": "S20250560", "first_name": "Elena", "last_name": "Sokolov", "group": "SE-201", "faculty": "Computer Science", "year": 2022, "current_semester": 4}
+{"student_id": "S20250561", "first_name": "Maria", "last_name": "Sokolov", "group": "CS-101", "faculty": "Mathematics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250562", "first_name": "Ivan", "last_name": "Ivanov", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 7}
+{"student_id": "S20250563", "first_name": "Nikita", "last_name": "Lebedev", "group": "CS-202", "faculty": "Mathematics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250564", "first_name": "Nikita", "last_name": "Popov", "group": "CS-201", "faculty": "Engineering", "year": 2023, "current_semester": 5}
+{"student_id": "S20250565", "first_name": "Anna", "last_name": "Kuznetsov", "group": "SE-101", "faculty": "Computer Science", "year": 2025, "current_semester": 6}
+{"student_id": "S20250566", "first_name": "Alex", "last_name": "Popov", "group": "CS-202", "faculty": "Physics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250567", "first_name": "Sergey", "last_name": "Smirnov", "group": "SE-101", "faculty": "Computer Science", "year": 2024, "current_semester": 8}
+{"student_id": "S20250568", "first_name": "Elena", "last_name": "Sidorov", "group": "CS-202", "faculty": "Engineering", "year": 2022, "current_semester": 4}
+{"student_id": "S20250569", "first_name": "Petr", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Mathematics", "year": 2023, "current_semester": 5}
+{"student_id": "S20250570", "first_name": "Olga", "last_name": "Petrov", "group": "CS-201", "faculty": "Engineering", "year": 2025, "current_semester": 3}
+{"student_id": "S20250571", "first_name": "Maria", "last_name": "Petrov", "group": "SE-101", "faculty": "Engineering", "year": 2025, "current_semester": 4}
+{"student_id": "S20250572", "first_name": "Sergey", "last_name": "Sokolov", "group": "SE-101", "faculty": "Mathematics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250573", "first_name": "Alex", "last_name": "Smirnov", "group": "CS-102", "faculty": "Engineering", "year": 2022, "current_semester": 7}
+{"student_id": "S20250574", "first_name": "Sergey", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Mathematics", "year": 2024, "current_semester": 6}
+{"student_id": "S20250575", "first_name": "Alex", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Engineering", "year": 2025, "current_semester": 2}
+{"student_id": "S20250576", "first_name": "Petr", "last_name": "Sidorov", "group": "CS-102", "faculty": "Physics", "year": 2024, "current_semester": 1}
+{"student_id": "S20250577", "first_name": "Alex", "last_name": "Petrov", "group": "CS-202", "faculty": "Computer Science", "year": 2022, "current_semester": 5}
+{"student_id": "S20250578", "first_name": "Nikita", "last_name": "Smirnov", "group": "CS-202", "faculty": "Mathematics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250579", "first_name": "Anna", "last_name": "Sidorov", "group": "CS-102", "faculty": "Physics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250580", "first_name": "Alex", "last_name": "Petrov", "group": "SE-101", "faculty": "Engineering", "year": 2024, "current_semester": 2}
+{"student_id": "S20250581", "first_name": "Dmitry", "last_name": "Lebedev", "group": "SE-201", "faculty": "Physics", "year": 2024, "current_semester": 6}
+{"student_id": "S20250582", "first_name": "Petr", "last_name": "Sidorov", "group": "SE-101", "faculty": "Mathematics", "year": 2024, "current_semester": 7}
+{"student_id": "S20250583", "first_name": "Ivan", "last_name": "Lebedev", "group": "CS-101", "faculty": "Physics", "year": 2024, "current_semester": 2}
+{"student_id": "S20250584", "first_name": "Elena", "last_name": "Sidorov", "group": "CS-101", "faculty": "Computer Science", "year": 2022, "current_semester": 4}
+{"student_id": "S20250585", "first_name": "Maria", "last_name": "Sokolov", "group": "CS-101", "faculty": "Physics", "year": 2024, "current_semester": 1}
+{"student_id": "S20250586", "first_name": "Ivan", "last_name": "Sokolov", "group": "SE-201", "faculty": "Mathematics", "year": 2024, "current_semester": 8}
+{"student_id": "S20250587", "first_name": "Nikita", "last_name": "Lebedev", "group": "SE-101", "faculty": "Computer Science", "year": 2023, "current_semester": 2}
+{"student_id": "S20250588", "first_name": "Maria", "last_name": "Sidorov", "group": "SE-101", "faculty": "Mathematics", "year": 2024, "current_semester": 8}
+{"student_id": "S20250589", "first_name": "Dmitry", "last_name": "Popov", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 8}
+{"student_id": "S20250590", "first_name": "Olga", "last_name": "Petrov", "group": "CS-202", "faculty": "Engineering", "year": 2022, "current_semester": 3}
+{"student_id": "S20250591", "first_name": "Ivan", "last_name": "Sokolov", "group": "CS-102", "faculty": "Physics", "year": 2023, "current_semester": 5}
+{"student_id": "S20250592", "first_name": "Alex", "last_name": "Ivanov", "group": "CS-202", "faculty": "Computer Science", "year": 2023, "current_semester": 3}
+{"student_id": "S20250593", "first_name": "Sergey", "last_name": "Sokolov", "group": "SE-101", "faculty": "Mathematics", "year": 2022, "current_semester": 6}
+{"student_id": "S20250594", "first_name": "Olga", "last_name": "Popov", "group": "CS-201", "faculty": "Mathematics", "year": 2024, "current_semester": 1}
+{"student_id": "S20250595", "first_name": "Sergey", "last_name": "Ivanov", "group": "SE-201", "faculty": "Physics", "year": 2022, "current_semester": 8}
+{"student_id": "S20250596", "first_name": "Elena", "last_name": "Smirnov", "group": "CS-102", "faculty": "Engineering", "year": 2023, "current_semester": 7}
+{"student_id": "S20250597", "first_name": "Alex", "last_name": "Ivanov", "group": "CS-201", "faculty": "Computer Science", "year": 2024, "current_semester": 4}
+{"student_id": "S20250598", "first_name": "Ivan", "last_name": "Sokolov", "group": "CS-102", "faculty": "Computer Science", "year": 2025, "current_semester": 2}
+{"student_id": "S20250599", "first_name": "Olga", "last_name": "Ivanov", "group": "SE-101", "faculty": "Mathematics", "year": 2022, "current_semester": 4}
+{"student_id": "S20250600", "first_name": "Alex", "last_name": "Petrov", "group": "CS-201", "faculty": "Mathematics", "year": 2024, "current_semester": 3}
+{"student_id": "S20250601", "first_name": "Ivan", "last_name": "Lebedev", "group": "CS-101", "faculty": "Mathematics", "year": 2025, "current_semester": 4}
+{"student_id": "S20250602", "first_name": "Ivan", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Physics", "year": 2022, "current_semester": 5}
+{"student_id": "S20250603", "first_name": "Petr", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Mathematics", "year": 2023, "current_semester": 3}
+{"student_id": "S20250604", "first_name": "Maria", "last_name": "Sokolov", "group": "SE-101", "faculty": "Physics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250605", "first_name": "Alex", "last_name": "Kuznetsov", "group": "CS-201", "faculty": "Physics", "year": 2022, "current_semester": 2}
+{"student_id": "S20250606", "first_name": "Elena", "last_name": "Sidorov", "group": "SE-201", "faculty": "Physics", "year": 2023, "current_semester": 7}
+{"student_id": "S20250607", "first_name": "Maria", "last_name": "Popov", "group": "CS-101", "faculty": "Engineering", "year": 2024, "current_semester": 1}
+{"student_id": "S20250608", "first_name": "Ivan", "last_name": "Sokolov", "group": "CS-202", "faculty": "Computer Science", "year": 2023, "current_semester": 7}
+{"student_id": "S20250609", "first_name": "Petr", "last_name": "Petrov", "group": "CS-202", "faculty": "Computer Science", "year": 2025, "current_semester": 2}
+{"student_id": "S20250610", "first_name": "Nikita", "last_name": "Popov", "group": "CS-201", "faculty": "Mathematics", "year": 2025, "current_semester": 6}
+{"student_id": "S20250611", "first_name": "Alex", "last_name": "Sidorov", "group": "CS-102", "faculty": "Physics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250612", "first_name": "Nikita", "last_name": "Smirnov", "group": "CS-102", "faculty": "Physics", "year": 2025, "current_semester": 4}
+{"student_id": "S20250613", "first_name": "Petr", "last_name": "Lebedev", "group": "CS-101", "faculty": "Computer Science", "year": 2024, "current_semester": 3}
+{"student_id": "S20250614", "first_name": "Anna", "last_name": "Sidorov", "group": "CS-201", "faculty": "Computer Science", "year": 2025, "current_semester": 2}
+{"student_id": "S20250615", "first_name": "Petr", "last_name": "Sidorov", "group": "CS-102", "faculty": "Mathematics", "year": 2022, "current_semester": 6}
+{"student_id": "S20250616", "first_name": "Maria", "last_name": "Sidorov", "group": "CS-102", "faculty": "Engineering", "year": 2024, "current_semester": 7}
+{"student_id": "S20250617", "first_name": "Alex", "last_name": "Sidorov", "group": "CS-101", "faculty": "Physics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250618", "first_name": "Petr", "last_name": "Sokolov", "group": "CS-102", "faculty": "Physics", "year": 2024, "current_semester": 6}
+{"student_id": "S20250619", "first_name": "Alex", "last_name": "Sokolov", "group": "SE-201", "faculty": "Mathematics", "year": 2023, "current_semester": 5}
+{"student_id": "S20250620", "first_name": "Elena", "last_name": "Kuznetsov", "group": "CS-102", "faculty": "Computer Science", "year": 2025, "current_semester": 4}
+{"student_id": "S20250621", "first_name": "Olga", "last_name": "Petrov", "group": "CS-102", "faculty": "Mathematics", "year": 2024, "current_semester": 1}
+{"student_id": "S20250622", "first_name": "Nikita", "last_name": "Smirnov", "group": "SE-201", "faculty": "Engineering", "year": 2025, "current_semester": 3}
+{"student_id": "S20250623", "first_name": "Elena", "last_name": "Petrov", "group": "CS-102", "faculty": "Engineering", "year": 2022, "current_semester": 4}
+{"student_id": "S20250624", "first_name": "Petr", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Engineering", "year": 2023, "current_semester": 1}
+{"student_id": "S20250625", "first_name": "Elena", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Computer Science", "year": 2025, "current_semester": 4}
+{"student_id": "S20250626", "first_name": "Anna", "last_name": "Sidorov", "group": "CS-201", "faculty": "Physics", "year": 2022, "current_semester": 7}
+{"student_id": "S20250627", "first_name": "Nikita", "last_name": "Sidorov", "group": "CS-102", "faculty": "Physics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250628", "first_name": "Sergey", "last_name": "Kuznetsov", "group": "CS-201", "faculty": "Physics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250629", "first_name": "Elena", "last_name": "Kuznetsov", "group": "CS-102", "faculty": "Engineering", "year": 2022, "current_semester": 5}
+{"student_id": "S20250630", "first_name": "Maria", "last_name": "Petrov", "group": "CS-201", "faculty": "Physics", "year": 2022, "current_semester": 8}
+{"student_id": "S20250631", "first_name": "Sergey", "last_name": "Lebedev", "group": "CS-201", "faculty": "Physics", "year": 2023, "current_semester": 3}
+{"student_id": "S20250632", "first_name": "Petr", "last_name": "Ivanov", "group": "SE-201", "faculty": "Mathematics", "year": 2024, "current_semester": 6}
+{"student_id": "S20250633", "first_name": "Alex", "last_name": "Sidorov", "group": "SE-101", "faculty": "Computer Science", "year": 2024, "current_semester": 3}
+{"student_id": "S20250634", "first_name": "Dmitry", "last_name": "Smirnov", "group": "SE-101", "faculty": "Mathematics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250635", "first_name": "Dmitry", "last_name": "Sidorov", "group": "CS-202", "faculty": "Computer Science", "year": 2022, "current_semester": 5}
+{"student_id": "S20250636", "first_name": "Nikita", "last_name": "Ivanov", "group": "CS-202", "faculty": "Physics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250637", "first_name": "Maria", "last_name": "Smirnov", "group": "CS-101", "faculty": "Engineering", "year": 2022, "current_semester": 6}
+{"student_id": "S20250638", "first_name": "Ivan", "last_name": "Sidorov", "group": "CS-202", "faculty": "Computer Science", "year": 2023, "current_semester": 2}
+{"student_id": "S20250639", "first_name": "Olga", "last_name": "Sidorov", "group": "CS-202", "faculty": "Mathematics", "year": 2025, "current_semester": 3}
+{"student_id": "S20250640", "first_name": "Petr", "last_name": "Smirnov", "group": "SE-101", "faculty": "Engineering", "year": 2023, "current_semester": 8}
+{"student_id": "S20250641", "first_name": "Sergey", "last_name": "Ivanov", "group": "CS-101", "faculty": "Computer Science", "year": 2023, "current_semester": 5}
+{"student_id": "S20250642", "first_name": "Nikita", "last_name": "Ivanov", "group": "CS-102", "faculty": "Engineering", "year": 2025, "current_semester": 6}
+{"student_id": "S20250643", "first_name": "Elena", "last_name": "Lebedev", "group": "SE-201", "faculty": "Mathematics", "year": 2022, "current_semester": 2}
+{"student_id": "S20250644", "first_name": "Maria", "last_name": "Petrov", "group": "CS-202", "faculty": "Mathematics", "year": 2024, "current_semester": 1}
+{"student_id": "S20250645", "first_name": "Alex", "last_name": "Petrov", "group": "CS-201", "faculty": "Engineering", "year": 2023, "current_semester": 7}
+{"student_id": "S20250646", "first_name": "Anna", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Mathematics", "year": 2022, "current_semester": 2}
+{"student_id": "S20250647", "first_name": "Elena", "last_name": "Smirnov", "group": "SE-201", "faculty": "Engineering", "year": 2022, "current_semester": 6}
+{"student_id": "S20250648", "first_name": "Petr", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Physics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250649", "first_name": "Nikita", "last_name": "Ivanov", "group": "SE-101", "faculty": "Computer Science", "year": 2022, "current_semester": 4}
+{"student_id": "S20250650", "first_name": "Anna", "last_name": "Sidorov", "group": "SE-201", "faculty": "Physics", "year": 2025, "current_semester": 3}
+{"student_id": "S20250651", "first_name": "Olga", "last_name": "Petrov", "group": "CS-201", "faculty": "Computer Science", "year": 2025, "current_semester": 2}
+{"student_id": "S20250652", "first_name": "Olga", "last_name": "Smirnov", "group": "CS-201", "faculty": "Engineering", "year": 2023, "current_semester": 5}
+{"student_id": "S20250653", "first_name": "Elena", "last_name": "Ivanov", "group": "CS-102", "faculty": "Physics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250654", "first_name": "Ivan", "last_name": "Smirnov", "group": "CS-101", "faculty": "Engineering", "year": 2022, "current_semester": 7}
+{"student_id": "S20250655", "first_name": "Elena", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Computer Science", "year": 2023, "current_semester": 8}
+{"student_id": "S20250656", "first_name": "Petr", "last_name": "Sokolov", "group": "CS-102", "faculty": "Physics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250657", "first_name": "Sergey", "last_name": "Sidorov", "group": "CS-202", "faculty": "Engineering", "year": 2023, "current_semester": 4}
+{"student_id": "S20250658", "first_name": "Nikita", "last_name": "Lebedev", "group": "CS-102", "faculty": "Physics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250659", "first_name": "Maria", "last_name": "Popov", "group": "SE-201", "faculty": "Mathematics", "year": 2024, "current_semester": 8}
+{"student_id": "S20250660", "first_name": "Alex", "last_name": "Popov", "group": "CS-102", "faculty": "Engineering", "year": 2022, "current_semester": 4}
+{"student_id": "S20250661", "first_name": "Ivan", "last_name": "Lebedev", "group": "CS-102", "faculty": "Physics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250662", "first_name": "Elena", "last_name": "Popov", "group": "CS-101", "faculty": "Mathematics", "year": 2022, "current_semester": 6}
+{"student_id": "S20250663", "first_name": "Olga", "last_name": "Lebedev", "group": "CS-102", "faculty": "Mathematics", "year": 2023, "current_semester": 5}
+{"student_id": "S20250664", "first_name": "Sergey", "last_name": "Kuznetsov", "group": "CS-201", "faculty": "Engineering", "year": 2022, "current_semester": 7}
+{"student_id": "S20250665", "first_name": "Ivan", "last_name": "Kuznetsov", "group": "CS-102", "faculty": "Physics", "year": 2024, "current_semester": 7}
+{"student_id": "S20250666", "first_name": "Maria", "last_name": "Ivanov", "group": "CS-102", "faculty": "Computer Science", "year": 2025, "current_semester": 5}
+{"student_id": "S20250667", "first_name": "Ivan", "last_name": "Ivanov", "group": "CS-102", "faculty": "Physics", "year": 2022, "current_semester": 2}
+{"student_id": "S20250668", "first_name": "Anna", "last_name": "Petrov", "group": "CS-201", "faculty": "Engineering", "year": 2023, "current_semester": 2}
+{"student_id": "S20250669", "first_name": "Elena", "last_name": "Smirnov", "group": "CS-202", "faculty": "Engineering", "year": 2024, "current_semester": 7}
+{"student_id": "S20250670", "first_name": "Alex", "last_name": "Petrov", "group": "SE-201", "faculty": "Mathematics", "year": 2022, "current_semester": 7}
+{"student_id": "S20250671", "first_name": "Nikita", "last_name": "Petrov", "group": "CS-201", "faculty": "Mathematics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250672", "first_name": "Anna", "last_name": "Sokolov", "group": "CS-101", "faculty": "Computer Science", "year": 2022, "current_semester": 7}
+{"student_id": "S20250673", "first_name": "Alex", "last_name": "Ivanov", "group": "CS-101", "faculty": "Physics", "year": 2022, "current_semester": 3}
+{"student_id": "S20250674", "first_name": "Sergey", "last_name": "Sokolov", "group": "CS-102", "faculty": "Engineering", "year": 2024, "current_semester": 4}
+{"student_id": "S20250675", "first_name": "Alex", "last_name": "Ivanov", "group": "SE-101", "faculty": "Engineering", "year": 2022, "current_semester": 6}
+{"student_id": "S20250676", "first_name": "Ivan", "last_name": "Smirnov", "group": "CS-201", "faculty": "Mathematics", "year": 2025, "current_semester": 8}
+{"student_id": "S20250677", "first_name": "Nikita", "last_name": "Ivanov", "group": "SE-201", "faculty": "Physics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250678", "first_name": "Sergey", "last_name": "Lebedev", "group": "CS-101", "faculty": "Mathematics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250679", "first_name": "Elena", "last_name": "Petrov", "group": "SE-201", "faculty": "Engineering", "year": 2025, "current_semester": 4}
+{"student_id": "S20250680", "first_name": "Ivan", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Physics", "year": 2025, "current_semester": 7}
+{"student_id": "S20250681", "first_name": "Ivan", "last_name": "Sokolov", "group": "SE-201", "faculty": "Engineering", "year": 2024, "current_semester": 6}
+{"student_id": "S20250682", "first_name": "Anna", "last_name": "Smirnov", "group": "CS-101", "faculty": "Physics", "year": 2022, "current_semester": 5}
+{"student_id": "S20250683", "first_name": "Elena", "last_name": "Ivanov", "group": "CS-102", "faculty": "Physics", "year": 2025, "current_semester": 4}
+{"student_id": "S20250684", "first_name": "Ivan", "last_name": "Sokolov", "group": "CS-102", "faculty": "Engineering", "year": 2023, "current_semester": 8}
+{"student_id": "S20250685", "first_name": "Dmitry", "last_name": "Lebedev", "group": "SE-201", "faculty": "Engineering", "year": 2023, "current_semester": 8}
+{"student_id": "S20250686", "first_name": "Petr", "last_name": "Sidorov", "group": "SE-201", "faculty": "Mathematics", "year": 2022, "current_semester": 4}
+{"student_id": "S20250687", "first_name": "Elena", "last_name": "Popov", "group": "SE-101", "faculty": "Engineering", "year": 2025, "current_semester": 1}
+{"student_id": "S20250688", "first_name": "Dmitry", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Engineering", "year": 2022, "current_semester": 3}
+{"student_id": "S20250689", "first_name": "Alex", "last_name": "Kuznetsov", "group": "SE-101", "faculty": "Mathematics", "year": 2023, "current_semester": 7}
+{"student_id": "S20250690", "first_name": "Olga", "last_name": "Sokolov", "group": "CS-202", "faculty": "Engineering", "year": 2022, "current_semester": 2}
+{"student_id": "S20250691", "first_name": "Alex", "last_name": "Smirnov", "group": "SE-201", "faculty": "Mathematics", "year": 2025, "current_semester": 4}
+{"student_id": "S20250692", "first_name": "Dmitry", "last_name": "Popov", "group": "SE-201", "faculty": "Computer Science", "year": 2023, "current_semester": 1}
+{"student_id": "S20250693", "first_name": "Nikita", "last_name": "Smirnov", "group": "CS-102", "faculty": "Computer Science", "year": 2024, "current_semester": 4}
+{"student_id": "S20250694", "first_name": "Alex", "last_name": "Ivanov", "group": "CS-101", "faculty": "Computer Science", "year": 2023, "current_semester": 6}
+{"student_id": "S20250695", "first_name": "Anna", "last_name": "Lebedev", "group": "CS-102", "faculty": "Computer Science", "year": 2025, "current_semester": 6}
+{"student_id": "S20250696", "first_name": "Maria", "last_name": "Lebedev", "group": "CS-102", "faculty": "Engineering", "year": 2024, "current_semester": 4}
+{"student_id": "S20250697", "first_name": "Petr", "last_name": "Sokolov", "group": "SE-101", "faculty": "Physics", "year": 2023, "current_semester": 3}
+{"student_id": "S20250698", "first_name": "Elena", "last_name": "Petrov", "group": "CS-101", "faculty": "Engineering", "year": 2022, "current_semester": 7}
+{"student_id": "S20250699", "first_name": "Maria", "last_name": "Smirnov", "group": "CS-201", "faculty": "Mathematics", "year": 2023, "current_semester": 8}
+{"student_id": "S20250700", "first_name": "Alex", "last_name": "Smirnov", "group": "CS-102", "faculty": "Computer Science", "year": 2024, "current_semester": 4}
+{"student_id": "S20250701", "first_name": "Anna", "last_name": "Lebedev", "group": "CS-102", "faculty": "Physics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250702", "first_name": "Nikita", "last_name": "Sokolov", "group": "CS-102", "faculty": "Physics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250703", "first_name": "Nikita", "last_name": "Petrov", "group": "SE-101", "faculty": "Physics", "year": 2024, "current_semester": 2}
+{"student_id": "S20250704", "first_name": "Nikita", "last_name": "Lebedev", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 1}
+{"student_id": "S20250705", "first_name": "Dmitry", "last_name": "Sidorov", "group": "CS-102", "faculty": "Engineering", "year": 2022, "current_semester": 4}
+{"student_id": "S20250706", "first_name": "Dmitry", "last_name": "Popov", "group": "SE-201", "faculty": "Physics", "year": 2023, "current_semester": 5}
+{"student_id": "S20250707", "first_name": "Elena", "last_name": "Popov", "group": "CS-101", "faculty": "Computer Science", "year": 2025, "current_semester": 5}
+{"student_id": "S20250708", "first_name": "Olga", "last_name": "Sidorov", "group": "SE-101", "faculty": "Engineering", "year": 2025, "current_semester": 3}
+{"student_id": "S20250709", "first_name": "Nikita", "last_name": "Sidorov", "group": "CS-101", "faculty": "Physics", "year": 2024, "current_semester": 1}
+{"student_id": "S20250710", "first_name": "Ivan", "last_name": "Smirnov", "group": "CS-102", "faculty": "Mathematics", "year": 2023, "current_semester": 5}
+{"student_id": "S20250711", "first_name": "Petr", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Mathematics", "year": 2022, "current_semester": 2}
+{"student_id": "S20250712", "first_name": "Dmitry", "last_name": "Lebedev", "group": "SE-101", "faculty": "Physics", "year": 2025, "current_semester": 8}
+{"student_id": "S20250713", "first_name": "Nikita", "last_name": "Smirnov", "group": "CS-201", "faculty": "Mathematics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250714", "first_name": "Alex", "last_name": "Lebedev", "group": "CS-202", "faculty": "Mathematics", "year": 2022, "current_semester": 3}
+{"student_id": "S20250715", "first_name": "Elena", "last_name": "Smirnov", "group": "CS-202", "faculty": "Mathematics", "year": 2024, "current_semester": 1}
+{"student_id": "S20250716", "first_name": "Elena", "last_name": "Popov", "group": "CS-202", "faculty": "Computer Science", "year": 2024, "current_semester": 7}
+{"student_id": "S20250717", "first_name": "Nikita", "last_name": "Smirnov", "group": "CS-101", "faculty": "Mathematics", "year": 2022, "current_semester": 3}
+{"student_id": "S20250718", "first_name": "Ivan", "last_name": "Smirnov", "group": "SE-101", "faculty": "Engineering", "year": 2023, "current_semester": 7}
+{"student_id": "S20250719", "first_name": "Olga", "last_name": "Smirnov", "group": "SE-201", "faculty": "Engineering", "year": 2025, "current_semester": 8}
+{"student_id": "S20250720", "first_name": "Dmitry", "last_name": "Popov", "group": "CS-102", "faculty": "Computer Science", "year": 2024, "current_semester": 6}
+{"student_id": "S20250721", "first_name": "Dmitry", "last_name": "Sokolov", "group": "CS-202", "faculty": "Engineering", "year": 2022, "current_semester": 3}
+{"student_id": "S20250722", "first_name": "Dmitry", "last_name": "Sokolov", "group": "SE-201", "faculty": "Computer Science", "year": 2024, "current_semester": 7}
+{"student_id": "S20250723", "first_name": "Sergey", "last_name": "Sidorov", "group": "CS-102", "faculty": "Engineering", "year": 2025, "current_semester": 3}
+{"student_id": "S20250724", "first_name": "Sergey", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Physics", "year": 2024, "current_semester": 7}
+{"student_id": "S20250725", "first_name": "Nikita", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 7}
+{"student_id": "S20250726", "first_name": "Anna", "last_name": "Popov", "group": "CS-202", "faculty": "Computer Science", "year": 2022, "current_semester": 5}
+{"student_id": "S20250727", "first_name": "Alex", "last_name": "Petrov", "group": "CS-101", "faculty": "Engineering", "year": 2024, "current_semester": 3}
+{"student_id": "S20250728", "first_name": "Sergey", "last_name": "Ivanov", "group": "CS-101", "faculty": "Computer Science", "year": 2022, "current_semester": 8}
+{"student_id": "S20250729", "first_name": "Alex", "last_name": "Petrov", "group": "CS-101", "faculty": "Mathematics", "year": 2022, "current_semester": 5}
+{"student_id": "S20250730", "first_name": "Elena", "last_name": "Lebedev", "group": "SE-201", "faculty": "Engineering", "year": 2025, "current_semester": 3}
+{"student_id": "S20250731", "first_name": "Nikita", "last_name": "Lebedev", "group": "CS-202", "faculty": "Computer Science", "year": 2025, "current_semester": 7}
+{"student_id": "S20250732", "first_name": "Elena", "last_name": "Popov", "group": "CS-201", "faculty": "Mathematics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250733", "first_name": "Maria", "last_name": "Popov", "group": "SE-101", "faculty": "Physics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250734", "first_name": "Sergey", "last_name": "Petrov", "group": "SE-201", "faculty": "Physics", "year": 2024, "current_semester": 1}
+{"student_id": "S20250735", "first_name": "Dmitry", "last_name": "Ivanov", "group": "SE-201", "faculty": "Physics", "year": 2025, "current_semester": 6}
+{"student_id": "S20250736", "first_name": "Ivan", "last_name": "Popov", "group": "CS-101", "faculty": "Physics", "year": 2023, "current_semester": 7}
+{"student_id": "S20250737", "first_name": "Anna", "last_name": "Sokolov", "group": "CS-102", "faculty": "Computer Science", "year": 2024, "current_semester": 1}
+{"student_id": "S20250738", "first_name": "Nikita", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Physics", "year": 2025, "current_semester": 3}
+{"student_id": "S20250739", "first_name": "Maria", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Mathematics", "year": 2025, "current_semester": 1}
+{"student_id": "S20250740", "first_name": "Alex", "last_name": "Sokolov", "group": "CS-202", "faculty": "Computer Science", "year": 2023, "current_semester": 1}
+{"student_id": "S20250741", "first_name": "Nikita", "last_name": "Smirnov", "group": "CS-102", "faculty": "Mathematics", "year": 2022, "current_semester": 5}
+{"student_id": "S20250742", "first_name": "Ivan", "last_name": "Smirnov", "group": "SE-201", "faculty": "Physics", "year": 2022, "current_semester": 2}
+{"student_id": "S20250743", "first_name": "Nikita", "last_name": "Sokolov", "group": "CS-201", "faculty": "Physics", "year": 2025, "current_semester": 8}
+{"student_id": "S20250744", "first_name": "Nikita", "last_name": "Petrov", "group": "CS-202", "faculty": "Computer Science", "year": 2024, "current_semester": 7}
+{"student_id": "S20250745", "first_name": "Olga", "last_name": "Petrov", "group": "CS-201", "faculty": "Computer Science", "year": 2024, "current_semester": 6}
+{"student_id": "S20250746", "first_name": "Olga", "last_name": "Petrov", "group": "CS-201", "faculty": "Computer Science", "year": 2023, "current_semester": 7}
+{"student_id": "S20250747", "first_name": "Alex", "last_name": "Smirnov", "group": "SE-101", "faculty": "Engineering", "year": 2025, "current_semester": 2}
+{"student_id": "S20250748", "first_name": "Anna", "last_name": "Sokolov", "group": "SE-101", "faculty": "Physics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250749", "first_name": "Sergey", "last_name": "Sokolov", "group": "CS-102", "faculty": "Physics", "year": 2024, "current_semester": 7}
+{"student_id": "S20250750", "first_name": "Sergey", "last_name": "Kuznetsov", "group": "CS-201", "faculty": "Physics", "year": 2024, "current_semester": 7}
+{"student_id": "S20250751", "first_name": "Maria", "last_name": "Sokolov", "group": "CS-101", "faculty": "Computer Science", "year": 2025, "current_semester": 3}
+{"student_id": "S20250752", "first_name": "Sergey", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Physics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250753", "first_name": "Petr", "last_name": "Popov", "group": "CS-101", "faculty": "Computer Science", "year": 2024, "current_semester": 4}
+{"student_id": "S20250754", "first_name": "Sergey", "last_name": "Ivanov", "group": "CS-202", "faculty": "Mathematics", "year": 2024, "current_semester": 6}
+{"student_id": "S20250755", "first_name": "Maria", "last_name": "Kuznetsov", "group": "SE-101", "faculty": "Mathematics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250756", "first_name": "Ivan", "last_name": "Petrov", "group": "CS-201", "faculty": "Physics", "year": 2024, "current_semester": 1}
+{"student_id": "S20250757", "first_name": "Maria", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Mathematics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250758", "first_name": "Nikita", "last_name": "Sidorov", "group": "SE-201", "faculty": "Engineering", "year": 2022, "current_semester": 3}
+{"student_id": "S20250759", "first_name": "Nikita", "last_name": "Popov", "group": "SE-101", "faculty": "Computer Science", "year": 2024, "current_semester": 6}
+{"student_id": "S20250760", "first_name": "Anna", "last_name": "Sokolov", "group": "CS-201", "faculty": "Computer Science", "year": 2022, "current_semester": 8}
+{"student_id": "S20250761", "first_name": "Alex", "last_name": "Sokolov", "group": "CS-102", "faculty": "Computer Science", "year": 2025, "current_semester": 3}
+{"student_id": "S20250762", "first_name": "Elena", "last_name": "Lebedev", "group": "CS-101", "faculty": "Mathematics", "year": 2025, "current_semester": 8}
+{"student_id": "S20250763", "first_name": "Petr", "last_name": "Sokolov", "group": "SE-201", "faculty": "Engineering", "year": 2023, "current_semester": 5}
+{"student_id": "S20250764", "first_name": "Ivan", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Computer Science", "year": 2023, "current_semester": 1}
+{"student_id": "S20250765", "first_name": "Maria", "last_name": "Ivanov", "group": "CS-202", "faculty": "Physics", "year": 2022, "current_semester": 5}
+{"student_id": "S20250766", "first_name": "Sergey", "last_name": "Lebedev", "group": "SE-101", "faculty": "Mathematics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250767", "first_name": "Elena", "last_name": "Kuznetsov", "group": "CS-201", "faculty": "Computer Science", "year": 2024, "current_semester": 1}
+{"student_id": "S20250768", "first_name": "Nikita", "last_name": "Kuznetsov", "group": "SE-101", "faculty": "Physics", "year": 2025, "current_semester": 6}
+{"student_id": "S20250769", "first_name": "Olga", "last_name": "Smirnov", "group": "SE-201", "faculty": "Engineering", "year": 2022, "current_semester": 5}
+{"student_id": "S20250770", "first_name": "Ivan", "last_name": "Ivanov", "group": "SE-201", "faculty": "Physics", "year": 2024, "current_semester": 2}
+{"student_id": "S20250771", "first_name": "Olga", "last_name": "Sidorov", "group": "CS-101", "faculty": "Computer Science", "year": 2025, "current_semester": 8}
+{"student_id": "S20250772", "first_name": "Ivan", "last_name": "Petrov", "group": "CS-102", "faculty": "Computer Science", "year": 2022, "current_semester": 8}
+{"student_id": "S20250773", "first_name": "Alex", "last_name": "Sidorov", "group": "CS-102", "faculty": "Mathematics", "year": 2024, "current_semester": 6}
+{"student_id": "S20250774", "first_name": "Anna", "last_name": "Smirnov", "group": "SE-201", "faculty": "Engineering", "year": 2022, "current_semester": 6}
+{"student_id": "S20250775", "first_name": "Ivan", "last_name": "Smirnov", "group": "CS-202", "faculty": "Mathematics", "year": 2023, "current_semester": 1}
+{"student_id": "S20250776", "first_name": "Dmitry", "last_name": "Petrov", "group": "CS-201", "faculty": "Physics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250777", "first_name": "Ivan", "last_name": "Petrov", "group": "CS-102", "faculty": "Mathematics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250778", "first_name": "Alex", "last_name": "Lebedev", "group": "CS-101", "faculty": "Mathematics", "year": 2025, "current_semester": 1}
+{"student_id": "S20250779", "first_name": "Maria", "last_name": "Lebedev", "group": "SE-101", "faculty": "Computer Science", "year": 2023, "current_semester": 7}
+{"student_id": "S20250780", "first_name": "Dmitry", "last_name": "Sidorov", "group": "CS-102", "faculty": "Engineering", "year": 2023, "current_semester": 2}
+{"student_id": "S20250781", "first_name": "Nikita", "last_name": "Sokolov", "group": "CS-102", "faculty": "Mathematics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250782", "first_name": "Olga", "last_name": "Smirnov", "group": "SE-101", "faculty": "Computer Science", "year": 2025, "current_semester": 5}
+{"student_id": "S20250783", "first_name": "Elena", "last_name": "Lebedev", "group": "CS-202", "faculty": "Physics", "year": 2022, "current_semester": 3}
+{"student_id": "S20250784", "first_name": "Olga", "last_name": "Petrov", "group": "SE-101", "faculty": "Mathematics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250785", "first_name": "Maria", "last_name": "Sokolov", "group": "CS-201", "faculty": "Computer Science", "year": 2025, "current_semester": 8}
+{"student_id": "S20250786", "first_name": "Maria", "last_name": "Lebedev", "group": "CS-201", "faculty": "Physics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250787", "first_name": "Ivan", "last_name": "Smirnov", "group": "CS-202", "faculty": "Computer Science", "year": 2024, "current_semester": 8}
+{"student_id": "S20250788", "first_name": "Alex", "last_name": "Lebedev", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 7}
+{"student_id": "S20250789", "first_name": "Nikita", "last_name": "Ivanov", "group": "CS-201", "faculty": "Physics", "year": 2024, "current_semester": 6}
+{"student_id": "S20250790", "first_name": "Sergey", "last_name": "Petrov", "group": "SE-101", "faculty": "Engineering", "year": 2023, "current_semester": 4}
+{"student_id": "S20250791", "first_name": "Nikita", "last_name": "Smirnov", "group": "SE-201", "faculty": "Physics", "year": 2022, "current_semester": 3}
+{"student_id": "S20250792", "first_name": "Elena", "last_name": "Ivanov", "group": "SE-101", "faculty": "Physics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250793", "first_name": "Dmitry", "last_name": "Lebedev", "group": "CS-101", "faculty": "Mathematics", "year": 2022, "current_semester": 4}
+{"student_id": "S20250794", "first_name": "Anna", "last_name": "Smirnov", "group": "CS-202", "faculty": "Computer Science", "year": 2025, "current_semester": 1}
+{"student_id": "S20250795", "first_name": "Elena", "last_name": "Lebedev", "group": "CS-201", "faculty": "Mathematics", "year": 2025, "current_semester": 7}
+{"student_id": "S20250796", "first_name": "Ivan", "last_name": "Ivanov", "group": "CS-202", "faculty": "Physics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250797", "first_name": "Petr", "last_name": "Smirnov", "group": "CS-102", "faculty": "Computer Science", "year": 2025, "current_semester": 4}
+{"student_id": "S20250798", "first_name": "Maria", "last_name": "Kuznetsov", "group": "CS-102", "faculty": "Mathematics", "year": 2025, "current_semester": 7}
+{"student_id": "S20250799", "first_name": "Ivan", "last_name": "Petrov", "group": "CS-102", "faculty": "Engineering", "year": 2022, "current_semester": 5}
+{"student_id": "S20250800", "first_name": "Anna", "last_name": "Petrov", "group": "SE-201", "faculty": "Physics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250801", "first_name": "Sergey", "last_name": "Sidorov", "group": "SE-201", "faculty": "Mathematics", "year": 2025, "current_semester": 3}
+{"student_id": "S20250802", "first_name": "Ivan", "last_name": "Ivanov", "group": "CS-101", "faculty": "Computer Science", "year": 2022, "current_semester": 4}
+{"student_id": "S20250803", "first_name": "Olga", "last_name": "Smirnov", "group": "CS-201", "faculty": "Mathematics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250804", "first_name": "Anna", "last_name": "Petrov", "group": "CS-101", "faculty": "Computer Science", "year": 2023, "current_semester": 4}
+{"student_id": "S20250805", "first_name": "Petr", "last_name": "Sidorov", "group": "CS-202", "faculty": "Mathematics", "year": 2025, "current_semester": 8}
+{"student_id": "S20250806", "first_name": "Ivan", "last_name": "Kuznetsov", "group": "CS-102", "faculty": "Computer Science", "year": 2025, "current_semester": 7}
+{"student_id": "S20250807", "first_name": "Ivan", "last_name": "Petrov", "group": "CS-201", "faculty": "Physics", "year": 2024, "current_semester": 3}
+{"student_id": "S20250808", "first_name": "Dmitry", "last_name": "Smirnov", "group": "SE-101", "faculty": "Engineering", "year": 2022, "current_semester": 6}
+{"student_id": "S20250809", "first_name": "Sergey", "last_name": "Sokolov", "group": "CS-101", "faculty": "Engineering", "year": 2024, "current_semester": 5}
+{"student_id": "S20250810", "first_name": "Dmitry", "last_name": "Lebedev", "group": "CS-102", "faculty": "Physics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250811", "first_name": "Elena", "last_name": "Petrov", "group": "CS-201", "faculty": "Engineering", "year": 2022, "current_semester": 2}
+{"student_id": "S20250812", "first_name": "Ivan", "last_name": "Sidorov", "group": "CS-202", "faculty": "Engineering", "year": 2023, "current_semester": 3}
+{"student_id": "S20250813", "first_name": "Elena", "last_name": "Sokolov", "group": "SE-101", "faculty": "Computer Science", "year": 2025, "current_semester": 5}
+{"student_id": "S20250814", "first_name": "Ivan", "last_name": "Petrov", "group": "CS-201", "faculty": "Engineering", "year": 2023, "current_semester": 4}
+{"student_id": "S20250815", "first_name": "Petr", "last_name": "Petrov", "group": "SE-201", "faculty": "Computer Science", "year": 2024, "current_semester": 6}
+{"student_id": "S20250816", "first_name": "Ivan", "last_name": "Popov", "group": "CS-201", "faculty": "Physics", "year": 2025, "current_semester": 8}
+{"student_id": "S20250817", "first_name": "Elena", "last_name": "Kuznetsov", "group": "CS-102", "faculty": "Physics", "year": 2024, "current_semester": 1}
+{"student_id": "S20250818", "first_name": "Maria", "last_name": "Petrov", "group": "CS-102", "faculty": "Physics", "year": 2022, "current_semester": 4}
+{"student_id": "S20250819", "first_name": "Petr", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Mathematics", "year": 2024, "current_semester": 8}
+{"student_id": "S20250820", "first_name": "Petr", "last_name": "Lebedev", "group": "CS-101", "faculty": "Mathematics", "year": 2022, "current_semester": 8}
+{"student_id": "S20250821", "first_name": "Sergey", "last_name": "Petrov", "group": "SE-201", "faculty": "Mathematics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250822", "first_name": "Anna", "last_name": "Popov", "group": "CS-201", "faculty": "Physics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250823", "first_name": "Maria", "last_name": "Sidorov", "group": "SE-101", "faculty": "Engineering", "year": 2025, "current_semester": 5}
+{"student_id": "S20250824", "first_name": "Sergey", "last_name": "Smirnov", "group": "CS-202", "faculty": "Engineering", "year": 2025, "current_semester": 4}
+{"student_id": "S20250825", "first_name": "Dmitry", "last_name": "Ivanov", "group": "CS-202", "faculty": "Engineering", "year": 2025, "current_semester": 1}
+{"student_id": "S20250826", "first_name": "Nikita", "last_name": "Kuznetsov", "group": "CS-102", "faculty": "Physics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250827", "first_name": "Dmitry", "last_name": "Popov", "group": "CS-101", "faculty": "Physics", "year": 2024, "current_semester": 7}
+{"student_id": "S20250828", "first_name": "Olga", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Mathematics", "year": 2022, "current_semester": 3}
+{"student_id": "S20250829", "first_name": "Maria", "last_name": "Petrov", "group": "CS-101", "faculty": "Engineering", "year": 2024, "current_semester": 7}
+{"student_id": "S20250830", "first_name": "Elena", "last_name": "Ivanov", "group": "CS-202", "faculty": "Mathematics", "year": 2025, "current_semester": 1}
+{"student_id": "S20250831", "first_name": "Elena", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Physics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250832", "first_name": "Sergey", "last_name": "Petrov", "group": "CS-102", "faculty": "Computer Science", "year": 2025, "current_semester": 4}
+{"student_id": "S20250833", "first_name": "Ivan", "last_name": "Popov", "group": "CS-202", "faculty": "Engineering", "year": 2023, "current_semester": 8}
+{"student_id": "S20250834", "first_name": "Nikita", "last_name": "Smirnov", "group": "CS-101", "faculty": "Mathematics", "year": 2023, "current_semester": 1}
+{"student_id": "S20250835", "first_name": "Olga", "last_name": "Ivanov", "group": "SE-201", "faculty": "Engineering", "year": 2024, "current_semester": 6}
+{"student_id": "S20250836", "first_name": "Anna", "last_name": "Ivanov", "group": "SE-201", "faculty": "Mathematics", "year": 2024, "current_semester": 6}
+{"student_id": "S20250837", "first_name": "Petr", "last_name": "Popov", "group": "SE-201", "faculty": "Computer Science", "year": 2022, "current_semester": 2}
+{"student_id": "S20250838", "first_name": "Elena", "last_name": "Popov", "group": "CS-101", "faculty": "Computer Science", "year": 2024, "current_semester": 7}
+{"student_id": "S20250839", "first_name": "Nikita", "last_name": "Popov", "group": "CS-201", "faculty": "Physics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250840", "first_name": "Dmitry", "last_name": "Smirnov", "group": "SE-101", "faculty": "Engineering", "year": 2022, "current_semester": 4}
+{"student_id": "S20250841", "first_name": "Maria", "last_name": "Sokolov", "group": "CS-201", "faculty": "Physics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250842", "first_name": "Sergey", "last_name": "Lebedev", "group": "CS-201", "faculty": "Engineering", "year": 2022, "current_semester": 6}
+{"student_id": "S20250843", "first_name": "Petr", "last_name": "Ivanov", "group": "SE-101", "faculty": "Computer Science", "year": 2024, "current_semester": 3}
+{"student_id": "S20250844", "first_name": "Nikita", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Mathematics", "year": 2024, "current_semester": 1}
+{"student_id": "S20250845", "first_name": "Anna", "last_name": "Popov", "group": "CS-101", "faculty": "Physics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250846", "first_name": "Sergey", "last_name": "Petrov", "group": "CS-202", "faculty": "Physics", "year": 2025, "current_semester": 2}
+{"student_id": "S20250847", "first_name": "Ivan", "last_name": "Smirnov", "group": "SE-201", "faculty": "Physics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250848", "first_name": "Ivan", "last_name": "Popov", "group": "SE-101", "faculty": "Engineering", "year": 2024, "current_semester": 3}
+{"student_id": "S20250849", "first_name": "Dmitry", "last_name": "Smirnov", "group": "CS-201", "faculty": "Mathematics", "year": 2025, "current_semester": 8}
+{"student_id": "S20250850", "first_name": "Maria", "last_name": "Smirnov", "group": "CS-101", "faculty": "Computer Science", "year": 2022, "current_semester": 4}
+{"student_id": "S20250851", "first_name": "Elena", "last_name": "Popov", "group": "SE-101", "faculty": "Physics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250852", "first_name": "Ivan", "last_name": "Sidorov", "group": "SE-101", "faculty": "Mathematics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250853", "first_name": "Ivan", "last_name": "Ivanov", "group": "CS-101", "faculty": "Engineering", "year": 2022, "current_semester": 8}
+{"student_id": "S20250854", "first_name": "Nikita", "last_name": "Lebedev", "group": "CS-201", "faculty": "Engineering", "year": 2025, "current_semester": 8}
+{"student_id": "S20250855", "first_name": "Anna", "last_name": "Lebedev", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 4}
+{"student_id": "S20250856", "first_name": "Olga", "last_name": "Petrov", "group": "CS-101", "faculty": "Mathematics", "year": 2023, "current_semester": 3}
+{"student_id": "S20250857", "first_name": "Elena", "last_name": "Sokolov", "group": "SE-201", "faculty": "Mathematics", "year": 2025, "current_semester": 7}
+{"student_id": "S20250858", "first_name": "Maria", "last_name": "Sidorov", "group": "SE-101", "faculty": "Computer Science", "year": 2023, "current_semester": 8}
+{"student_id": "S20250859", "first_name": "Sergey", "last_name": "Ivanov", "group": "CS-201", "faculty": "Physics", "year": 2022, "current_semester": 3}
+{"student_id": "S20250860", "first_name": "Alex", "last_name": "Popov", "group": "SE-201", "faculty": "Computer Science", "year": 2023, "current_semester": 6}
+{"student_id": "S20250861", "first_name": "Anna", "last_name": "Sidorov", "group": "CS-202", "faculty": "Mathematics", "year": 2023, "current_semester": 1}
+{"student_id": "S20250862", "first_name": "Maria", "last_name": "Ivanov", "group": "SE-101", "faculty": "Engineering", "year": 2025, "current_semester": 8}
+{"student_id": "S20250863", "first_name": "Olga", "last_name": "Ivanov", "group": "CS-102", "faculty": "Physics", "year": 2022, "current_semester": 8}
+{"student_id": "S20250864", "first_name": "Petr", "last_name": "Lebedev", "group": "CS-101", "faculty": "Engineering", "year": 2025, "current_semester": 8}
+{"student_id": "S20250865", "first_name": "Nikita", "last_name": "Popov", "group": "CS-202", "faculty": "Physics", "year": 2024, "current_semester": 8}
+{"student_id": "S20250866", "first_name": "Nikita", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Computer Science", "year": 2025, "current_semester": 6}
+{"student_id": "S20250867", "first_name": "Nikita", "last_name": "Sidorov", "group": "SE-201", "faculty": "Physics", "year": 2023, "current_semester": 3}
+{"student_id": "S20250868", "first_name": "Ivan", "last_name": "Smirnov", "group": "SE-201", "faculty": "Engineering", "year": 2025, "current_semester": 5}
+{"student_id": "S20250869", "first_name": "Dmitry", "last_name": "Smirnov", "group": "CS-101", "faculty": "Computer Science", "year": 2025, "current_semester": 7}
+{"student_id": "S20250870", "first_name": "Petr", "last_name": "Sidorov", "group": "CS-101", "faculty": "Engineering", "year": 2025, "current_semester": 7}
+{"student_id": "S20250871", "first_name": "Olga", "last_name": "Petrov", "group": "CS-201", "faculty": "Physics", "year": 2023, "current_semester": 5}
+{"student_id": "S20250872", "first_name": "Nikita", "last_name": "Sidorov", "group": "SE-101", "faculty": "Computer Science", "year": 2024, "current_semester": 6}
+{"student_id": "S20250873", "first_name": "Olga", "last_name": "Lebedev", "group": "SE-101", "faculty": "Engineering", "year": 2025, "current_semester": 7}
+{"student_id": "S20250874", "first_name": "Sergey", "last_name": "Lebedev", "group": "CS-101", "faculty": "Mathematics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250875", "first_name": "Alex", "last_name": "Lebedev", "group": "CS-101", "faculty": "Physics", "year": 2025, "current_semester": 3}
+{"student_id": "S20250876", "first_name": "Anna", "last_name": "Petrov", "group": "SE-201", "faculty": "Engineering", "year": 2025, "current_semester": 8}
+{"student_id": "S20250877", "first_name": "Anna", "last_name": "Petrov", "group": "CS-101", "faculty": "Computer Science", "year": 2022, "current_semester": 5}
+{"student_id": "S20250878", "first_name": "Ivan", "last_name": "Smirnov", "group": "SE-201", "faculty": "Computer Science", "year": 2025, "current_semester": 4}
+{"student_id": "S20250879", "first_name": "Anna", "last_name": "Petrov", "group": "CS-201", "faculty": "Mathematics", "year": 2024, "current_semester": 1}
+{"student_id": "S20250880", "first_name": "Maria", "last_name": "Kuznetsov", "group": "CS-102", "faculty": "Engineering", "year": 2025, "current_semester": 5}
+{"student_id": "S20250881", "first_name": "Anna", "last_name": "Ivanov", "group": "SE-101", "faculty": "Physics", "year": 2023, "current_semester": 1}
+{"student_id": "S20250882", "first_name": "Anna", "last_name": "Sidorov", "group": "CS-201", "faculty": "Mathematics", "year": 2023, "current_semester": 5}
+{"student_id": "S20250883", "first_name": "Alex", "last_name": "Sokolov", "group": "CS-102", "faculty": "Engineering", "year": 2025, "current_semester": 7}
+{"student_id": "S20250884", "first_name": "Olga", "last_name": "Ivanov", "group": "CS-101", "faculty": "Computer Science", "year": 2024, "current_semester": 1}
+{"student_id": "S20250885", "first_name": "Olga", "last_name": "Sokolov", "group": "SE-101", "faculty": "Physics", "year": 2024, "current_semester": 2}
+{"student_id": "S20250886", "first_name": "Maria", "last_name": "Smirnov", "group": "CS-101", "faculty": "Engineering", "year": 2025, "current_semester": 6}
+{"student_id": "S20250887", "first_name": "Alex", "last_name": "Lebedev", "group": "CS-101", "faculty": "Mathematics", "year": 2023, "current_semester": 7}
+{"student_id": "S20250888", "first_name": "Anna", "last_name": "Sidorov", "group": "CS-202", "faculty": "Computer Science", "year": 2025, "current_semester": 1}
+{"student_id": "S20250889", "first_name": "Sergey", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Engineering", "year": 2025, "current_semester": 8}
+{"student_id": "S20250890", "first_name": "Elena", "last_name": "Smirnov", "group": "CS-102", "faculty": "Physics", "year": 2025, "current_semester": 7}
+{"student_id": "S20250891", "first_name": "Petr", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Computer Science", "year": 2025, "current_semester": 4}
+{"student_id": "S20250892", "first_name": "Dmitry", "last_name": "Petrov", "group": "CS-202", "faculty": "Mathematics", "year": 2023, "current_semester": 1}
+{"student_id": "S20250893", "first_name": "Dmitry", "last_name": "Lebedev", "group": "CS-201", "faculty": "Engineering", "year": 2023, "current_semester": 4}
+{"student_id": "S20250894", "first_name": "Sergey", "last_name": "Ivanov", "group": "CS-201", "faculty": "Computer Science", "year": 2022, "current_semester": 3}
+{"student_id": "S20250895", "first_name": "Olga", "last_name": "Lebedev", "group": "SE-101", "faculty": "Computer Science", "year": 2022, "current_semester": 7}
+{"student_id": "S20250896", "first_name": "Elena", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Computer Science", "year": 2024, "current_semester": 6}
+{"student_id": "S20250897", "first_name": "Anna", "last_name": "Popov", "group": "CS-201", "faculty": "Computer Science", "year": 2022, "current_semester": 5}
+{"student_id": "S20250898", "first_name": "Sergey", "last_name": "Petrov", "group": "CS-102", "faculty": "Engineering", "year": 2022, "current_semester": 2}
+{"student_id": "S20250899", "first_name": "Ivan", "last_name": "Lebedev", "group": "CS-102", "faculty": "Mathematics", "year": 2025, "current_semester": 4}
+{"student_id": "S20250900", "first_name": "Maria", "last_name": "Lebedev", "group": "CS-201", "faculty": "Mathematics", "year": 2022, "current_semester": 6}
+{"student_id": "S20250901", "first_name": "Sergey", "last_name": "Kuznetsov", "group": "SE-201", "faculty": "Engineering", "year": 2024, "current_semester": 8}
+{"student_id": "S20250902", "first_name": "Elena", "last_name": "Lebedev", "group": "CS-101", "faculty": "Physics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250903", "first_name": "Dmitry", "last_name": "Smirnov", "group": "SE-201", "faculty": "Physics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250904", "first_name": "Ivan", "last_name": "Popov", "group": "SE-201", "faculty": "Computer Science", "year": 2022, "current_semester": 5}
+{"student_id": "S20250905", "first_name": "Petr", "last_name": "Ivanov", "group": "CS-102", "faculty": "Computer Science", "year": 2023, "current_semester": 3}
+{"student_id": "S20250906", "first_name": "Alex", "last_name": "Smirnov", "group": "SE-201", "faculty": "Mathematics", "year": 2024, "current_semester": 6}
+{"student_id": "S20250907", "first_name": "Alex", "last_name": "Ivanov", "group": "CS-102", "faculty": "Physics", "year": 2022, "current_semester": 8}
+{"student_id": "S20250908", "first_name": "Ivan", "last_name": "Petrov", "group": "SE-101", "faculty": "Engineering", "year": 2025, "current_semester": 5}
+{"student_id": "S20250909", "first_name": "Ivan", "last_name": "Kuznetsov", "group": "CS-201", "faculty": "Mathematics", "year": 2024, "current_semester": 2}
+{"student_id": "S20250910", "first_name": "Ivan", "last_name": "Popov", "group": "CS-201", "faculty": "Mathematics", "year": 2022, "current_semester": 4}
+{"student_id": "S20250911", "first_name": "Olga", "last_name": "Smirnov", "group": "CS-202", "faculty": "Physics", "year": 2023, "current_semester": 4}
+{"student_id": "S20250912", "first_name": "Petr", "last_name": "Popov", "group": "SE-101", "faculty": "Physics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250913", "first_name": "Sergey", "last_name": "Sidorov", "group": "CS-101", "faculty": "Mathematics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250914", "first_name": "Nikita", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Computer Science", "year": 2024, "current_semester": 3}
+{"student_id": "S20250915", "first_name": "Maria", "last_name": "Sidorov", "group": "CS-202", "faculty": "Mathematics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250916", "first_name": "Petr", "last_name": "Ivanov", "group": "CS-201", "faculty": "Engineering", "year": 2023, "current_semester": 3}
+{"student_id": "S20250917", "first_name": "Dmitry", "last_name": "Petrov", "group": "CS-102", "faculty": "Mathematics", "year": 2022, "current_semester": 3}
+{"student_id": "S20250918", "first_name": "Anna", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Engineering", "year": 2025, "current_semester": 3}
+{"student_id": "S20250919", "first_name": "Maria", "last_name": "Ivanov", "group": "CS-101", "faculty": "Mathematics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250920", "first_name": "Dmitry", "last_name": "Smirnov", "group": "CS-201", "faculty": "Mathematics", "year": 2022, "current_semester": 3}
+{"student_id": "S20250921", "first_name": "Olga", "last_name": "Popov", "group": "CS-101", "faculty": "Mathematics", "year": 2022, "current_semester": 2}
+{"student_id": "S20250922", "first_name": "Ivan", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Computer Science", "year": 2025, "current_semester": 8}
+{"student_id": "S20250923", "first_name": "Petr", "last_name": "Ivanov", "group": "SE-101", "faculty": "Mathematics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250924", "first_name": "Olga", "last_name": "Petrov", "group": "SE-201", "faculty": "Mathematics", "year": 2025, "current_semester": 7}
+{"student_id": "S20250925", "first_name": "Alex", "last_name": "Sokolov", "group": "CS-202", "faculty": "Engineering", "year": 2022, "current_semester": 1}
+{"student_id": "S20250926", "first_name": "Alex", "last_name": "Kuznetsov", "group": "CS-201", "faculty": "Physics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250927", "first_name": "Anna", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Computer Science", "year": 2022, "current_semester": 7}
+{"student_id": "S20250928", "first_name": "Maria", "last_name": "Petrov", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 4}
+{"student_id": "S20250929", "first_name": "Alex", "last_name": "Popov", "group": "CS-101", "faculty": "Mathematics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250930", "first_name": "Olga", "last_name": "Ivanov", "group": "CS-101", "faculty": "Physics", "year": 2023, "current_semester": 5}
+{"student_id": "S20250931", "first_name": "Petr", "last_name": "Smirnov", "group": "SE-201", "faculty": "Computer Science", "year": 2023, "current_semester": 8}
+{"student_id": "S20250932", "first_name": "Dmitry", "last_name": "Sokolov", "group": "SE-101", "faculty": "Computer Science", "year": 2024, "current_semester": 1}
+{"student_id": "S20250933", "first_name": "Elena", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Physics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250934", "first_name": "Ivan", "last_name": "Lebedev", "group": "SE-201", "faculty": "Mathematics", "year": 2023, "current_semester": 5}
+{"student_id": "S20250935", "first_name": "Elena", "last_name": "Smirnov", "group": "SE-201", "faculty": "Engineering", "year": 2025, "current_semester": 1}
+{"student_id": "S20250936", "first_name": "Sergey", "last_name": "Sokolov", "group": "CS-201", "faculty": "Computer Science", "year": 2023, "current_semester": 2}
+{"student_id": "S20250937", "first_name": "Ivan", "last_name": "Petrov", "group": "SE-201", "faculty": "Computer Science", "year": 2023, "current_semester": 8}
+{"student_id": "S20250938", "first_name": "Alex", "last_name": "Ivanov", "group": "SE-201", "faculty": "Mathematics", "year": 2023, "current_semester": 1}
+{"student_id": "S20250939", "first_name": "Olga", "last_name": "Ivanov", "group": "CS-101", "faculty": "Computer Science", "year": 2022, "current_semester": 6}
+{"student_id": "S20250940", "first_name": "Petr", "last_name": "Smirnov", "group": "CS-101", "faculty": "Physics", "year": 2025, "current_semester": 3}
+{"student_id": "S20250941", "first_name": "Olga", "last_name": "Popov", "group": "SE-101", "faculty": "Mathematics", "year": 2023, "current_semester": 5}
+{"student_id": "S20250942", "first_name": "Ivan", "last_name": "Sidorov", "group": "CS-101", "faculty": "Engineering", "year": 2023, "current_semester": 7}
+{"student_id": "S20250943", "first_name": "Alex", "last_name": "Ivanov", "group": "SE-201", "faculty": "Computer Science", "year": 2023, "current_semester": 1}
+{"student_id": "S20250944", "first_name": "Ivan", "last_name": "Ivanov", "group": "CS-102", "faculty": "Physics", "year": 2022, "current_semester": 8}
+{"student_id": "S20250945", "first_name": "Olga", "last_name": "Lebedev", "group": "SE-201", "faculty": "Physics", "year": 2022, "current_semester": 4}
+{"student_id": "S20250946", "first_name": "Olga", "last_name": "Sidorov", "group": "SE-101", "faculty": "Mathematics", "year": 2024, "current_semester": 4}
+{"student_id": "S20250947", "first_name": "Ivan", "last_name": "Lebedev", "group": "CS-201", "faculty": "Mathematics", "year": 2025, "current_semester": 6}
+{"student_id": "S20250948", "first_name": "Nikita", "last_name": "Smirnov", "group": "CS-202", "faculty": "Physics", "year": 2024, "current_semester": 2}
+{"student_id": "S20250949", "first_name": "Dmitry", "last_name": "Sokolov", "group": "CS-202", "faculty": "Mathematics", "year": 2024, "current_semester": 7}
+{"student_id": "S20250950", "first_name": "Elena", "last_name": "Sokolov", "group": "CS-101", "faculty": "Mathematics", "year": 2023, "current_semester": 2}
+{"student_id": "S20250951", "first_name": "Olga", "last_name": "Ivanov", "group": "CS-101", "faculty": "Engineering", "year": 2025, "current_semester": 4}
+{"student_id": "S20250952", "first_name": "Dmitry", "last_name": "Popov", "group": "CS-102", "faculty": "Computer Science", "year": 2024, "current_semester": 8}
+{"student_id": "S20250953", "first_name": "Ivan", "last_name": "Sokolov", "group": "CS-101", "faculty": "Computer Science", "year": 2025, "current_semester": 7}
+{"student_id": "S20250954", "first_name": "Anna", "last_name": "Sokolov", "group": "CS-202", "faculty": "Mathematics", "year": 2022, "current_semester": 6}
+{"student_id": "S20250955", "first_name": "Sergey", "last_name": "Sokolov", "group": "CS-201", "faculty": "Engineering", "year": 2024, "current_semester": 4}
+{"student_id": "S20250956", "first_name": "Elena", "last_name": "Petrov", "group": "SE-101", "faculty": "Computer Science", "year": 2022, "current_semester": 5}
+{"student_id": "S20250957", "first_name": "Olga", "last_name": "Smirnov", "group": "SE-101", "faculty": "Computer Science", "year": 2023, "current_semester": 2}
+{"student_id": "S20250958", "first_name": "Petr", "last_name": "Sidorov", "group": "CS-101", "faculty": "Computer Science", "year": 2024, "current_semester": 1}
+{"student_id": "S20250959", "first_name": "Ivan", "last_name": "Smirnov", "group": "CS-202", "faculty": "Computer Science", "year": 2024, "current_semester": 2}
+{"student_id": "S20250960", "first_name": "Anna", "last_name": "Smirnov", "group": "CS-201", "faculty": "Mathematics", "year": 2022, "current_semester": 7}
+{"student_id": "S20250961", "first_name": "Alex", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Mathematics", "year": 2023, "current_semester": 5}
+{"student_id": "S20250962", "first_name": "Maria", "last_name": "Sidorov", "group": "SE-201", "faculty": "Engineering", "year": 2025, "current_semester": 7}
+{"student_id": "S20250963", "first_name": "Ivan", "last_name": "Smirnov", "group": "SE-101", "faculty": "Mathematics", "year": 2024, "current_semester": 5}
+{"student_id": "S20250964", "first_name": "Olga", "last_name": "Sidorov", "group": "CS-101", "faculty": "Mathematics", "year": 2025, "current_semester": 5}
+{"student_id": "S20250965", "first_name": "Nikita", "last_name": "Popov", "group": "CS-101", "faculty": "Mathematics", "year": 2024, "current_semester": 1}
+{"student_id": "S20250966", "first_name": "Maria", "last_name": "Petrov", "group": "SE-101", "faculty": "Computer Science", "year": 2022, "current_semester": 8}
+{"student_id": "S20250967", "first_name": "Nikita", "last_name": "Smirnov", "group": "CS-202", "faculty": "Engineering", "year": 2025, "current_semester": 4}
+{"student_id": "S20250968", "first_name": "Maria", "last_name": "Sidorov", "group": "CS-202", "faculty": "Mathematics", "year": 2023, "current_semester": 8}
+{"student_id": "S20250969", "first_name": "Nikita", "last_name": "Sidorov", "group": "CS-102", "faculty": "Mathematics", "year": 2025, "current_semester": 8}
+{"student_id": "S20250970", "first_name": "Ivan", "last_name": "Sokolov", "group": "CS-101", "faculty": "Physics", "year": 2022, "current_semester": 6}
+{"student_id": "S20250971", "first_name": "Olga", "last_name": "Smirnov", "group": "SE-101", "faculty": "Physics", "year": 2025, "current_semester": 3}
+{"student_id": "S20250972", "first_name": "Maria", "last_name": "Popov", "group": "SE-201", "faculty": "Mathematics", "year": 2023, "current_semester": 3}
+{"student_id": "S20250973", "first_name": "Alex", "last_name": "Petrov", "group": "SE-201", "faculty": "Engineering", "year": 2022, "current_semester": 5}
+{"student_id": "S20250974", "first_name": "Elena", "last_name": "Sokolov", "group": "SE-101", "faculty": "Physics", "year": 2025, "current_semester": 8}
+{"student_id": "S20250975", "first_name": "Dmitry", "last_name": "Sidorov", "group": "CS-102", "faculty": "Computer Science", "year": 2025, "current_semester": 5}
+{"student_id": "S20250976", "first_name": "Maria", "last_name": "Sidorov", "group": "CS-201", "faculty": "Mathematics", "year": 2024, "current_semester": 7}
+{"student_id": "S20250977", "first_name": "Olga", "last_name": "Petrov", "group": "CS-102", "faculty": "Computer Science", "year": 2025, "current_semester": 6}
+{"student_id": "S20250978", "first_name": "Nikita", "last_name": "Popov", "group": "CS-102", "faculty": "Mathematics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250979", "first_name": "Ivan", "last_name": "Sidorov", "group": "CS-202", "faculty": "Engineering", "year": 2023, "current_semester": 6}
+{"student_id": "S20250980", "first_name": "Alex", "last_name": "Sokolov", "group": "CS-202", "faculty": "Computer Science", "year": 2023, "current_semester": 7}
+{"student_id": "S20250981", "first_name": "Maria", "last_name": "Ivanov", "group": "CS-102", "faculty": "Computer Science", "year": 2024, "current_semester": 2}
+{"student_id": "S20250982", "first_name": "Alex", "last_name": "Kuznetsov", "group": "SE-101", "faculty": "Engineering", "year": 2024, "current_semester": 4}
+{"student_id": "S20250983", "first_name": "Nikita", "last_name": "Sokolov", "group": "SE-101", "faculty": "Physics", "year": 2024, "current_semester": 2}
+{"student_id": "S20250984", "first_name": "Dmitry", "last_name": "Kuznetsov", "group": "CS-202", "faculty": "Physics", "year": 2025, "current_semester": 1}
+{"student_id": "S20250985", "first_name": "Maria", "last_name": "Sokolov", "group": "CS-201", "faculty": "Mathematics", "year": 2023, "current_semester": 1}
+{"student_id": "S20250986", "first_name": "Ivan", "last_name": "Sokolov", "group": "CS-102", "faculty": "Physics", "year": 2023, "current_semester": 7}
+{"student_id": "S20250987", "first_name": "Alex", "last_name": "Sidorov", "group": "CS-201", "faculty": "Engineering", "year": 2022, "current_semester": 7}
+{"student_id": "S20250988", "first_name": "Olga", "last_name": "Sokolov", "group": "SE-101", "faculty": "Computer Science", "year": 2022, "current_semester": 6}
+{"student_id": "S20250989", "first_name": "Maria", "last_name": "Popov", "group": "SE-101", "faculty": "Computer Science", "year": 2024, "current_semester": 7}
+{"student_id": "S20250990", "first_name": "Elena", "last_name": "Lebedev", "group": "CS-202", "faculty": "Computer Science", "year": 2023, "current_semester": 7}
+{"student_id": "S20250991", "first_name": "Petr", "last_name": "Petrov", "group": "CS-102", "faculty": "Mathematics", "year": 2022, "current_semester": 2}
+{"student_id": "S20250992", "first_name": "Petr", "last_name": "Sidorov", "group": "CS-202", "faculty": "Physics", "year": 2022, "current_semester": 1}
+{"student_id": "S20250993", "first_name": "Olga", "last_name": "Smirnov", "group": "SE-201", "faculty": "Physics", "year": 2023, "current_semester": 1}
+{"student_id": "S20250994", "first_name": "Elena", "last_name": "Sidorov", "group": "CS-102", "faculty": "Computer Science", "year": 2022, "current_semester": 6}
+{"student_id": "S20250995", "first_name": "Anna", "last_name": "Popov", "group": "SE-201", "faculty": "Engineering", "year": 2023, "current_semester": 3}
+{"student_id": "S20250996", "first_name": "Ivan", "last_name": "Lebedev", "group": "SE-101", "faculty": "Mathematics", "year": 2025, "current_semester": 7}
+{"student_id": "S20250997", "first_name": "Alex", "last_name": "Kuznetsov", "group": "CS-101", "faculty": "Engineering", "year": 2025, "current_semester": 4}
+{"student_id": "S20250998", "first_name": "Elena", "last_name": "Lebedev", "group": "SE-101", "faculty": "Mathematics", "year": 2023, "current_semester": 6}
+{"student_id": "S20250999", "first_name": "Dmitry", "last_name": "Ivanov", "group": "SE-201", "faculty": "Computer Science", "year": 2025, "current_semester": 2}
+{"student_id": "S20251000", "first_name": "Ivan", "last_name": "Sidorov", "group": "CS-101", "faculty": "Engineering", "year": 2025, "current_semester": 3}

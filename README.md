@@ -20,5 +20,5 @@ python3 console_app.py
 ---
 
 ## Результаты нагрузочного тестирования
-result_no_shard.txt - для не шардированного кластера 
+result_no_shard.txt - для не шардированного кластера </br>
 result_shard.txt - для шардированного кластера

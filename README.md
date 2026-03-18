@@ -16,3 +16,9 @@ docker compose up -d
 pip install pymongo
 python3 console_app.py
 ```
+
+---
+
+## Результаты нагрузочного тестирования
+result_no_shard.txt - для не шардированного кластера 
+result_shard.txt - для шардированного кластера

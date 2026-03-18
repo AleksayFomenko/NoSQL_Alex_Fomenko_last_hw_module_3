@@ -1,0 +1,41 @@
+Command line: -t -db site.ycsb.db.MongoDbClient -P workloads/workloada -p mongodb.url=mongodb://localhost:27020/university -p mongodb.collection=usertable -p operationcount=100000 -p threads=16
+YCSB Client 0.17.0
+
+Loading workload...
+Starting test.
+mongo client connection created with mongodb://localhost:27020/university
+DBWrapper: report latency for each error is false and specific error codes to track for latency are: []
+[OVERALL], RunTime(ms), 38380
+[OVERALL], Throughput(ops/sec), 2605.5237102657634
+[TOTAL_GCS_G1_Young_Generation], Count, 139
+[TOTAL_GC_TIME_G1_Young_Generation], Time(ms), 95
+[TOTAL_GC_TIME_%_G1_Young_Generation], Time(%), 0.24752475247524752
+[TOTAL_GCS_G1_Concurrent_GC], Count, 2
+[TOTAL_GC_TIME_G1_Concurrent_GC], Time(ms), 0
+[TOTAL_GC_TIME_%_G1_Concurrent_GC], Time(%), 0.0
+[TOTAL_GCS_G1_Old_Generation], Count, 0
+[TOTAL_GC_TIME_G1_Old_Generation], Time(ms), 0
+[TOTAL_GC_TIME_%_G1_Old_Generation], Time(%), 0.0
+[TOTAL_GCs], Count, 141
+[TOTAL_GC_TIME], Time(ms), 95
+[TOTAL_GC_TIME_%], Time(%), 0.24752475247524752
+[READ], Operations, 49829
+[READ], AverageLatency(us), 255.06251379718637
+[READ], MinLatency(us), 159
+[READ], MaxLatency(us), 26783
+[READ], 95thPercentileLatency(us), 285
+[READ], 99thPercentileLatency(us), 332
+[READ], Return=OK, 49829
+[CLEANUP], Operations, 1
+[CLEANUP], AverageLatency(us), 1872.0
+[CLEANUP], MinLatency(us), 1872
+[CLEANUP], MaxLatency(us), 1872
+[CLEANUP], 95thPercentileLatency(us), 1872
+[CLEANUP], 99thPercentileLatency(us), 1872
+[UPDATE], Operations, 50171
+[UPDATE], AverageLatency(us), 503.2764545255227
+[UPDATE], MinLatency(us), 269
+[UPDATE], MaxLatency(us), 8375
+[UPDATE], 95thPercentileLatency(us), 1263
+[UPDATE], 99thPercentileLatency(us), 1712
+[UPDATE], Return=OK, 50171
